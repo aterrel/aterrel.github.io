@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Codematician - posts</title><link href="https://andy.terrel.us/" rel="alternate"/><link href="https://andy.terrel.us/feeds/posts.atom.xml" rel="self"/><id>https://andy.terrel.us/</id><updated>2026-01-12T00:00:00-06:00</updated><entry><title>NumFOCUS 2025: A Year of Transition and Renewal</title><link href="https://andy.terrel.us/blog/2026/numfocus-2025-year-in-review.html" rel="alternate"/><published>2026-01-12T00:00:00-06:00</published><updated>2026-01-12T00:00:00-06:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2026-01-12:/blog/2026/numfocus-2025-year-in-review.html</id><summary type="html">&lt;p&gt;A look back at NumFOCUS in 2025—new executive director, public board minutes, clean audit, and key resolutions that shaped the year.&lt;/p&gt;</summary><content type="html">&lt;p&gt;When I rejoined the NumFOCUS Admin Board in late 2024, I knew we had significant work ahead. What I didn't fully anticipate was just how transformative 2025 would become. This was a year defined by leadership transitions, governance improvements, and laying the groundwork for NumFOCUS's next chapter. As Secretary this year, I had a front-row seat to all of it.&lt;/p&gt;
+&lt;h2&gt;Leadership Transition&lt;/h2&gt;
+&lt;p&gt;The biggest story of 2025 was our executive leadership transition. Leah Silen, our founding Executive Director who had been with NumFOCUS since 2012, announced her departure. Leah built this organization from nothing into an entity that now supports nearly 100 scientific software projects. The community owes her an enormous debt of gratitude for her tireless work.&lt;/p&gt;
+&lt;p&gt;Our first order of business in January was establishing a hiring committee. I proposed the resolution and Julie Hollek took the lead as committee chair. We engaged Perrett-Laver as our search firm and cast a wide net. Jim Weiss stepped up as interim ED in March, keeping operations steady while we conducted the search. By July, the board accepted the hiring committee's recommendation, and Rachel Kerestes joined us as our new Executive Director by September.&lt;/p&gt;
+&lt;p&gt;Rachel hit the ground running. By December, she was already auditing internal policies, working with legal specialists on contracting procedures, and planning strategic sessions for 2026. The transition was smoother than I had dared hope.&lt;/p&gt;
+&lt;h2&gt;NumFOCUS Governance and Transparency&lt;/h2&gt;
+&lt;p&gt;One resolution I'm particularly proud of came in our very first meeting of 2025: we voted to make board minutes public by default. Previously, minutes took months to publish and required approval from a quorum. Under the new policy, minutes go public unless a board member specifically moves to redact sensitive information. You can see all our 2025 minutes at &lt;a href="https://numfocus.github.io/numfocus-board/"&gt;numfocus.github.io/numfocus-board&lt;/a&gt;. This aligns with the community standards of transparency that our open source projects embody.&lt;/p&gt;
+&lt;p&gt;We also modernized our bylaws to address board member accountability. The new amendment codifies that directors who miss three consecutive meetings without valid excuse may be deemed to have resigned. This wasn't theoretical—we had to apply it during the year when a board member became unreachable.&lt;/p&gt;
+&lt;h2&gt;Financial Health&lt;/h2&gt;
+&lt;p&gt;The 2025 audit came back clean. In the auditor's words, our financial statements and practices are in good order, there's no evidence of fraud or theft, and we can be trusted with people's money. We couldn't have hoped for a better outcome.&lt;/p&gt;
+&lt;p&gt;The board also approved a comprehensive Financial Policies and Procedures Manual in June, bringing more rigor to our operations. We approved the 2026 budget in December and established quarterly financial reporting to keep the board informed throughout the year.&lt;/p&gt;
+&lt;h2&gt;Key Resolutions&lt;/h2&gt;
+&lt;p&gt;Looking back at the year's board resolutions tells the story of our priorities:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;January&lt;/strong&gt;: Public minutes by default, ED hiring committee established&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;March&lt;/strong&gt;: Bylaws amendment for attendance, Jim Weiss appointed interim ED&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;April&lt;/strong&gt;: $10K budget for PyCon booth presence&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;June&lt;/strong&gt;: Financial Policies Manual approved&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;July&lt;/strong&gt;: New ED hire accepted, PyData Global established as a committee, Small Development Grant fund restrictions formalized&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;September&lt;/strong&gt;: EU Cooperation Agreement with NumFOCUS France&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;December&lt;/strong&gt;: 2025 election results certified (welcoming James, Francesca, and Noor), 2026 budget approved&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Looking Ahead&lt;/h2&gt;
+&lt;p&gt;As I write this, we're onboarding three new board members and kicking off a strategic planning process. Rachel is recruiting a Chief Financial and Operations Officer. We're moving to monthly board meetings instead of the quarterly schedule I was skeptical about last year—turns out my instincts were right on that one.&lt;/p&gt;
+&lt;p&gt;The Technical Steering Committee is finalizing its charter. Projects are pushing back on some process changes, which I actually see as a healthy sign that they care about how NumFOCUS operates. We're also exploring domain-specific events in areas like biotech, climate, and AI as smaller, more focused gatherings.&lt;/p&gt;
+&lt;p&gt;2025 was a year of foundations. We navigated a major leadership change, improved our governance, and maintained financial health. The work continues, but I feel the organization is pointed in the right direction. NumFOCUS exists to help scientists build better tools for discovery, and that mission remains as vital as ever.&lt;/p&gt;</content><category term="posts"/><category term="numfocus"/></entry><entry><title>The new NumFOCUS Admin Board</title><link href="https://andy.terrel.us/blog/2025/new-admin-board.html" rel="alternate"/><published>2025-01-10T00:00:00-06:00</published><updated>2025-01-10T00:00:00-06:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2025-01-10:/blog/2025/new-admin-board.html</id><summary type="html">&lt;p&gt;The new NumFOCUS admin board met for the first time this week and I can say that I am truly honored to serve the community in this capacity. NumFOCUS has been a leading example of how to build open source culture and provide services to our scientific tool makers. With …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The new NumFOCUS admin board met for the first time this week and I can say that I am truly honored to serve the community in this capacity. NumFOCUS has been a leading example of how to build open source culture and provide services to our scientific tool makers. With almost 100 scientific software projects representing fields from Astrophysics, Biology, Economics, Engineering, Statistics, Medical Imaging, Data Science, Computer Science, and so on, I feel the impact of our work will be felt for  generations. With all that said, the admin board has some important work to get done this term and we set forth doing it right away.&lt;/p&gt;
+&lt;p&gt;First and formost, in keeping with the value of Transparency, the admin board’s first resolution was to make the notes become default public. This allows us to post minutes much faster than previous boards which required approval from a quorum to post minutes. You can see the board minutes at &lt;a href="https://numfocus.github.io/numfocus-board/2025/20250108/"&gt;our site&lt;/a&gt;. Under the new resolution, a board member will have to propose a discussion item be voted private to be removed. I believe this was an important step to transition to steer the organization to a more radically transparent operations. While NumFOCUS has won awards for transparency from non-profit watchdogs, many in the community have asked for more visibility in the discussions of these board meetings. Our community standards of transparency have evolved in the decade we have been operating and this is an opportunity to re-evaluate all NumFOCUS practices.&lt;/p&gt;
+&lt;p&gt;Perhaps the second most important action is a resolution to create a hiring committee for our Executive Director (ED) position. As has been announced in the previous board term, our faithful founding ED, Leah Silen, has stepped down. She will continue to serve in this role for a few more months, which means we need to hire ASAP. Leah has been such an inspiring leader for the community and will leave a huge impression for the community going forward. The community owes Leah a debt of graditude for her hard work. &lt;/p&gt;
+&lt;p&gt;Finally our last resolution was to install a temporary set of officers which I was nominated for the secretary position. We focused on temporary because of two reasons. First only 4 of the 6 members of the current board were able to attend this special session. Second, under the new structure, the technical steering committee has the right to appoint a voting admin board member, but that has not happened yet. Considering we only have a few months to start a hiring committee, find a search firm, interview candidates, and bring the community to a consensus on the new ED, I certainly felt we should get a full set of officers now. &lt;/p&gt;
+&lt;p&gt;Well it was a productive meeting and I am super excited to be along for the journey. I can say this admin board feels charged to help the community and keep building the future that NumFOCUS promises, i.e. more open scientific tools for better scientific progress. &lt;/p&gt;</content><category term="posts"/><category term="numfocus"/></entry><entry><title>Things to do in 2025</title><link href="https://andy.terrel.us/blog/2025/things-to-do-in-2025.html" rel="alternate"/><published>2025-01-05T00:00:00-06:00</published><updated>2025-01-05T00:00:00-06:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2025-01-05:/blog/2025/things-to-do-in-2025.html</id><summary type="html">&lt;p&gt;&lt;img alt="A Runner readies" src="https://andy.terrel.us/figures/braden-collum-9HI8UJMSdZA-unsplash.jpg" title="Man at starting line crouched for sprint&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;p&gt;I seem to be waking up with purpose every morning so I felt it good to get a list of things I would like to do in 2025. Yeah this list is too long but gives my future self a direction.&lt;/p&gt;
+&lt;h2&gt;Daily General Life&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The heavens declare the glory; the …&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="A Runner readies" src="https://andy.terrel.us/figures/braden-collum-9HI8UJMSdZA-unsplash.jpg" title="Man at starting line crouched for sprint&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;p&gt;I seem to be waking up with purpose every morning so I felt it good to get a list of things I would like to do in 2025. Yeah this list is too long but gives my future self a direction.&lt;/p&gt;
+&lt;h2&gt;Daily General Life&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The heavens declare the glory; the skies proclaim the work.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Serve my family,&lt;/li&gt;
+&lt;li&gt;Read a holy scripture,&lt;/li&gt;
+&lt;li&gt;Find meaning in my work, and&lt;/li&gt;
+&lt;li&gt;Exercise.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;OSS Software&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;The wicked borrow and do not repay, but the righteous give generously.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Find a way to commit code every day&lt;/li&gt;
+&lt;li&gt;Launch a pip prototype with gpu aware metadata semantics, follow at &lt;a href="https://github.com/wheel-next"&gt;wheel-next&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Build Pure Python versions of AI algorithms that perform e.g. &lt;a href="https://github.com/aterrel/llm.py"&gt;llm.py&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Explore the boundaries between languages and libraries for gpu computing. See &lt;a href="https://github.com/nvidia/numba-cuda"&gt;numba-cuda&lt;/a&gt; and &lt;a href="https://github.com/triton-lang/triton"&gt;triton-lang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Contribute to my favorite libraries and tools:&lt;ul&gt;
+&lt;li&gt;numba&lt;/li&gt;
+&lt;li&gt;CPython&lt;/li&gt;
+&lt;li&gt;pixi&lt;/li&gt;
+&lt;li&gt;dask&lt;/li&gt;
+&lt;li&gt;bokeh&lt;/li&gt;
+&lt;li&gt;DISCOVER-Cookbook&lt;/li&gt;
+&lt;li&gt;LFortran/LPython&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Help raise the standards of governance in the PyData projects and the NumFOCUS projects&lt;/li&gt;
+&lt;li&gt;Help guide the NumFOCUS community hire a new executive director&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hobbies&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Satisfy your desires with good things so that your youth is renewed like the eagle’s&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Redesign my website and tinker with a few applications&lt;/li&gt;
+&lt;li&gt;Complete my woodworking todo list&lt;ul&gt;
+&lt;li&gt;bunk beds for kids&lt;/li&gt;
+&lt;li&gt;end grain cutting boards and pens for gifts&lt;/li&gt;
+&lt;li&gt;handtool chest from hand tool school&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Read 12 books (currently on the list, need suggestions for non-western male authors):&lt;ul&gt;
+&lt;li&gt;Life by Pope Francis&lt;/li&gt;
+&lt;li&gt;The Godfather by Mario Puzo&lt;/li&gt;
+&lt;li&gt;The intelligent investor by Benjamin Graham&lt;/li&gt;
+&lt;li&gt;Something by Ted Chiang&lt;/li&gt;
+&lt;li&gt;Stormlight Archive book 5 (Wind and Truth) by Brandon Sanderson&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Set up a family wildlife preserve&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Photo attribution&lt;/h3&gt;
+&lt;p&gt;By Bradaen Collum. &lt;a href="a
+href=&amp;quot;https://unsplash.com/license”"&gt;Unsplash License&lt;/a&gt; via
+&lt;a href="https://unsplash.com/photos/man-on-running-field-9HI8UJMSdZA"&gt;Unsplash&lt;/a&gt;\&lt;/p&gt;</content><category term="posts"/><category term="personal"/></entry><entry><title>Looking back at 2024</title><link href="https://andy.terrel.us/blog/2025/looking-back-2024.html" rel="alternate"/><published>2025-01-04T00:00:00-06:00</published><updated>2025-01-04T00:00:00-06:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2025-01-04:/blog/2025/looking-back-2024.html</id><summary type="html">&lt;p&gt;&lt;em&gt;You accomplish less in one year than you want more more in 10 than you ever expect.&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;These words of wisdom seem attributed to Bill Gates. This year of any, I started to see their meaning. The past year represented a pretty stark departure from the last decade of my …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;em&gt;You accomplish less in one year than you want more more in 10 than you ever expect.&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;These words of wisdom seem attributed to Bill Gates. This year of any, I started to see their meaning. The past year represented a pretty stark departure from the last decade of my life. It is a return to helping build tools for computation. A return to my life’s work in academia, before started working on AI based startup companies. Let’s just say I’ve had some catching up to do, but having people quote my papers in meetings was somewhat surreal. &lt;/p&gt;
+&lt;p&gt;To back up a minute, in 2023, I joined NVIDIA as the product lead for CUDA Python. I left my academic post back in 2012 to join the founding team at Anaconda. In academia I was building compilers for scientific computing applications, e.g. ways to build hurricane simulations with hundreds of lines of code over millions using GPUs and other accelerators. I was literally told that my work had a “snowball’s chance in hell” at getting me a tenure track position, so I left. At Anaconda, I kept working with academics to produce better big data tooling for the Python data ecosystem. I was the PI on a few DARPA grants that funded some of our beloved PyData tools, e.g. conda, dask, numba, and bokeh. Making tools for academics and government was nice, but had the same feel of my previous work, i.e. not making significant impact.&lt;/p&gt;
+&lt;p&gt;From 2015 to 2023, I helped organizations use computing tools to build new and interesting technologies. This included virtual clothing sizing tools at Boldmetrics &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;, a fully online real estate system at REX Homes &lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="#fn:2"&gt;2&lt;/a&gt;&lt;/sup&gt;, a cloud manufacturing system at Xometry &lt;sup id="fnref:3"&gt;&lt;a class="footnote-ref" href="#fn:3"&gt;3&lt;/a&gt;&lt;/sup&gt;, and an early film and television script evaluation system at StoryFit &lt;sup id="fnref:4"&gt;&lt;a class="footnote-ref" href="#fn:4"&gt;4&lt;/a&gt;&lt;/sup&gt;. I also kept helping with NumFOCUS which was a vestige of the last decade of work, i.e. building tools for scientists, but one that I felt uniquely suited to do. I did also run a side gig for CTO advisement for teams wear I helped folks like KindHealth build modern Health Insurance, Korbit.ai build AI education systems, and Sapling Learning build better math education. All this work had immediate impact to customers. &lt;/p&gt;
+&lt;p&gt;Near the end of 2023, a friend reached out about joining NVIDIA, right when I was looking at joining another startup. It represented an opportunity to take back a decade of learning to building tools for computation. I jumped at the opportunity even though it meant going from an executive role to an individual contributor. One year in it has probably been one of the most productive years of my life, but to see all that you need to come meet me at this year’s GTC where we are launching numerous Python products &lt;sup id="fnref:5"&gt;&lt;a class="footnote-ref" href="#fn:5"&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;In 2010-2015, it was a different era of computing. Big data was the main hurdle to technical innovation at the largest companies. Python had already taken off as a great language for gluing and building computational pipelines, but during this time we sealed it as the data scientists preferred toolbox. Now we are focused on Generative AI systems and many of the same challenges exist. The community is more willing to accept compilers like numba and triton-lang. In the big data world, only the largest systems really needed to compile their computational kernels to something that would run 10-100x faster over the entire dataset, but in GenAI there is no small or medium datasets. Thus today we have the big data tools and compilers we wrote back in those early days that have enabled GenAI to move quickly and build just amazing models.&lt;/p&gt;
+&lt;p&gt;At NVIDIA, I’ve been pushing on numerous initiatives that combine the decade of learning in startups with the new computational of the GenAI stack. It is work I would not have been able to do without the previous decades of work. If there were any words I could whisper in my ears back in 2010, it would be these we started with. &lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;&lt;a href="https://boldmetrics.com/"&gt;https://boldmetrics.com/&lt;/a&gt; - I drank from the fire hose building this system and deploying it at Men’s Wearhouse as their online &lt;a href="https://tuxedo.menswearhouse.com/measurements/fit-quiz"&gt;fit tool&lt;/a&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:2"&gt;
+&lt;p&gt;&lt;a href="https://www.digitaltrends.com/home/rex-new-real-estate-platform/"&gt;REX Real Estate&lt;/a&gt; - We took the company all the way to an IPO when COVID hit and the bottom of the real estate market fell out. We created a lot of great tech that made it possible to launch in around 30 major cities.&amp;#160;&lt;a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:3"&gt;
+&lt;p&gt;&lt;a href="https://www.xometry.com/"&gt;https://www.xometry.com/&lt;/a&gt; - I joined to build the seller marketplace but it was shut down the first quarter I was there. Helped build out a growth team and streamline the processes of the data and algorithms teams. Probably the best demonstration of a company transition that I saw where romans and greek culture clashing. Great product and wonderful operations culture, definitely recommend anyone wanting to get into AI operational systems.&amp;#160;&lt;a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:4"&gt;
+&lt;p&gt;&lt;a href="https://www.fastcompany.com/91131323/can-ai-and-the-entertainment-industry-co-pilot-to-navigate-change"&gt;StoryFit&lt;/a&gt; - Probably one of my most fun roles as working with creative entertainment folks was most definitely a left turn for me. The research team had thousands of models and we were able to turn it into a self service platform. Ultimately the market was in turmoil as during this period I saw the writer’s strike put all Hollywood on a standstill, the chatGPT moment that shocked the tech world, and the failure of Silcon Valley Bank that wiped out debt equity loans for many startups, including ours.&amp;#160;&lt;a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:5"&gt;
+&lt;p&gt;If you are a company using Python and GPUs definitely contact me. I do have the 20% coupon I can give you but more importantly, I would love to understand your use case and see if there is a match with any of the things we are launching.&amp;#160;&lt;a class="footnote-backref" href="#fnref:5" title="Jump back to footnote 5 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content><category term="posts"/><category term="personal"/></entry><entry><title>When should your board meet</title><link href="https://andy.terrel.us/blog/2024/when-to-meet.html" rel="alternate"/><published>2024-12-28T00:00:00-06:00</published><updated>2024-12-28T00:00:00-06:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2024-12-28:/blog/2024/when-to-meet.html</id><summary type="html">&lt;p&gt;Seems the first duty as a new director at NumFOCUS is to determine when we should be meeting. Simple question deserves a blog post with far too much reflection, but hey I promised more transparency in decision making to numerous NumFOCUS constituents. In my experience through many boards at NumFOCUS …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Seems the first duty as a new director at NumFOCUS is to determine when we should be meeting. Simple question deserves a blog post with far too much reflection, but hey I promised more transparency in decision making to numerous NumFOCUS constituents. In my experience through many boards at NumFOCUS, sporting non-profit boards, property boards, and corporate boards, I can confidently say IT DEPENDS!&lt;/p&gt;
+&lt;p&gt;Fine, Andy, WHAT does it depend on?&lt;/p&gt;
+&lt;h2&gt;Why Board Meet&lt;/h2&gt;
+&lt;p&gt;I posit there are really only three reasons or actions for which a boards meet:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;decision&lt;/strong&gt; needs to be made,&lt;/li&gt;
+&lt;li&gt;A status &lt;strong&gt;report&lt;/strong&gt; needs to be filed,&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;collaboration&lt;/strong&gt; to accomplish a concrete task, i.e. drafting a position statement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Now each of these reasons have other dimensions that govern their meeting frequency, time, and place. These include, but not limited to, some of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The deadline for the needed action, i.e. decision, report, or collaboration,&lt;/li&gt;
+&lt;li&gt;The participants needed for the action&lt;/li&gt;
+&lt;li&gt;The prerequisites for the action, e.g. the report is finialized for a status report, a discussion has finished for a decision, or items purchased for a collaboration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Okay seems simple we can use the needed action and the governing dimensions to determine if a meeting should happen. EXCEPT!!!! Different boards have different types of collaborations and different cadences for delivery. Now we could give some pretty generic advice, like meet every day or only when absolutely necessary, but I have been stung in the past by generic advice &lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;. Let’s explore different cadences in reference to the various goals of the board.&lt;/p&gt;
+&lt;h2&gt;When do boards meet?&lt;/h2&gt;
+&lt;p&gt;Every single board I have ever been a part of has an oversight role for something, that is usually defined by some charter. For example the NumFOCUS infrastructure board has to provide oversight for IT decisions and my youth baseball league has to provide oversite for baseball games. IT decisions happen almost all the time, but in reality NumFOCUS uses managed services for most everything and so there is not a huge rush warranting a daily meeting. Baseball games happen every blessed hour (M-F 5pm-10 and weekends at 8am - 10pm) during the season, and that makes the occasion for oversight very frequent. Okay the frequency of your deadlines will determine a natural cadence, but the second dimension comes into play, i.e. who is needed for the decision.&lt;/p&gt;
+&lt;p&gt;Not every single board member will be committed to meet every day, week, or even month. If your deadlines are coming more quickly than your decision points, there will be frustration from your members and many will question your goals. To make decisions faster you need to pair down the number of people needed to make the decision. For example the frequency of youth baseball games has a warranted two boards (executive and full) with board members on duty who can determine when to call an executive meeting at any moment&lt;sup id="fnref:2"&gt;&lt;a class="footnote-ref" href="#fn:2"&gt;2&lt;/a&gt;&lt;/sup&gt;. Most software teams have deliverables every single day and will need to meet almost daily to even get code out the door later than intended. Their manager doesn’t need to provide oversight every line of code thus we meet every few weeks to look over the sprint’s outcomes. To sum up, you need to understand how frequently your board members are willing to meet and let that guide your cadence and board structure.&lt;/p&gt;
+&lt;p&gt;Another aspect of meetings is that it may take multiple meetings to make decision. In my experience, I rarely see multi-faceted decisions being made in less than three meetings. The first meeting presents the problem that requires a decision. If it was a decision that needs no discussion, then it probably would not need the board to decide. Not all board members are fully aware of the problem and will want to time to investigate and determine their position, so a decision is pushed to a second meeting. The second meeting generally fleshes out the various elements of the decision. This is the chance for board members to bring new perspectives. New perspectives requires more investigation. That is why we arrive at three meetings&lt;sup id="fnref:3"&gt;&lt;a class="footnote-ref" href="#fn:3"&gt;3&lt;/a&gt;&lt;/sup&gt;. Of course this is just a minimum number of meetings, often these investigations result in new information that just keeps pushing more meetings. Now combine the meeting cadence with this rule of three meetings and you have how quickly a board can make a decision. Meet weekly, then expect 1 month for a decision; meet daily, expect a week. Thus you determine the speed your board makes decisions by the cadence of meetings&lt;sup id="fnref:4"&gt;&lt;a class="footnote-ref" href="#fn:4"&gt;4&lt;/a&gt;&lt;/sup&gt;. One hack I use with many teams I run is to have a status report at the cadence I expect decisions to be made and schedule ad hoc meetings for when decisions need to be sped up due to short deadlines.&lt;/p&gt;
+&lt;p&gt;Okay we have actions and dimensions of an action that determine when meetings can happen. We have a cadence of oversight that determines how often reports need to be made. We even have governance structures being determined by the frequency of actions and the minimum number of people being needed for particular actions. How does this apply to NumFOCUS? Well first we need to talk about the structure and actions of NumFOCUS governance. This blog is already over 1000 words so we will save that for the next posting.&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;I use to say, “you are not a team if you don’t meet every day”, and I still believe that to an extent. Once a CTO at a company I advised came to me with his resignation complaining that he wasn’t part of the “Executive Team” and used my saying as proof. Oh boy, was I in hot water, here is a company I’m supposed to be helping achieve their goals and a simple off hand truism is causing a rift so wide the team is breaking up!  That CTO was clearly frustrated with the other executives on the team but it wasn’t really the meeting frequency that was the issue, it was being out of the loop of the decision process. Today, I do think if you are not meeting regularly, you aren’t working together, which can be fine, but I hold my tongue on demanding daily meetings.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:2"&gt;
+&lt;p&gt;I’ll leave it to the reader to determine when a decision is beyond the charter of a particular board. Once in a youth baseball duty I had two divorced parents showing up and screaming at the umps and coaches about visitation rights. The mother even had a thirty page document which she claimed showed the father was not legally allowed to be there. Here was a case where I needed help from the executive board as there was no right answer. Both the mom and dad where violating our no verbal abuse policy, but kick the dad out you violate his rights as a father, kick the mom out you take the kid away from baseball (which was our whole goal of being there) or don’t do anything and violate the rest of the teams rights to watch the game. In the end we just separated the parents (luckily the foul poles on a baseball field are a long ways apart and yell there is fine) and told the mom to appeal to the local police for determining if the father was breaking a court order. We accomplished our goals but because the decision required different levels of governance we used a separation of concerns to dictate our escalations.&amp;#160;&lt;a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:3"&gt;
+&lt;p&gt;There are ways to speed up the number of meetings, e.g. using email to flesh out details asynchronously. Unfortunately, many boards of filled with busy people who don’t have time to read all their email...I have over 13K emails in my inboxes at the moment. So I think my rule of 3 meetings generally holds.&amp;#160;&lt;a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id="fn:4"&gt;
+&lt;p&gt;One of my favorite demonstrations of the principle is the State of Texas legislative session. If the meeting cadence determines the amount of work a board can do, it will also be a limiter to the amount of damage a board can do. The State of Texas lawmakers only meet every other year. I have no idea how to judge if it is a successful strategy but think about how slowing down decisions can have a purpose as well.&amp;#160;&lt;a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content><category term="posts"/><category term="NumFOCUS"/></entry><entry><title>Rejoining the NumFOCUS Board</title><link href="https://andy.terrel.us/blog/2024/rejoining-numfocus-board.html" rel="alternate"/><published>2024-12-15T00:00:00-06:00</published><updated>2024-12-15T00:00:00-06:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2024-12-15:/blog/2024/rejoining-numfocus-board.html</id><summary type="html">&lt;p&gt;A few weeks ago, I was elected to a new term on the NumFOCUS board. This time it is the Admin board while a newly created Technical Steering council has also been formed. One can see some of the differences of the two group on &lt;a href="https://github.com/numfocus/elections/blob/main/board-responsibilities.md"&gt;the election webpage&lt;/a&gt;. This group …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A few weeks ago, I was elected to a new term on the NumFOCUS board. This time it is the Admin board while a newly created Technical Steering council has also been formed. One can see some of the differences of the two group on &lt;a href="https://github.com/numfocus/elections/blob/main/board-responsibilities.md"&gt;the election webpage&lt;/a&gt;. This group is different than before where being on the board really meant, "Make sure the org is working." With so many different responsibilities there is a greater need to split the tasks.&lt;/p&gt;
+&lt;h2&gt;Why re-join the board&lt;/h2&gt;
+&lt;p&gt;I've been thinking why I joined the board again. I had been on the board from 2012 - 2021 and felt at the end that I had spent all I could on the cause. Since that time I've seen several businesses I had been working with fail and took a "normal" job at NVIDIA. NVIDIA has a lot of great perks, but the one that seems to have brought more spark to my life is the adage, "Do your life's work." Well helping scientists make tools for discovery had been my life's work up until I left Anaconda to pursue various applied ML startups. Even my work at NVIDIA seems less meaningful when I'm not focused on helping scientist use our technology. I don't know why but science has always been a calling.&lt;/p&gt;
+&lt;p&gt;It would be naive to say that was the only reason I wanted to rejoin. There has also been a bit of a challenge with watching the board from the side. Various events have led me to believe that the organization has lost touch with the community that put so much time and effort to build it. The classic story of serving more than one master. In this case it is very hard to know exactly what went wrong, but it was clear with Jupyter's exit that projects have started to feel less happy with the arrangement. My hope is that I will be able to bring back the spirit of the early days, but the truth is that it may be that the world has just moved on.&lt;/p&gt;
+&lt;h2&gt;First week back&lt;/h2&gt;
+&lt;p&gt;The first surprising thing to me is that the new board is only supposed to meet once a quarter. I'm skeptical that this will work out super well. The first task is to define strategic direction and the second is to profide fiscal oversight. It will be very difficult to know how the organization can structure itself strategically if reports are only once a quarter. I've been part of the Advisory Council which has a nebulous duty of giving advice but gain no right of a director, or be required to be heard (see &lt;a href="https://numfocus.org/wp-content/uploads/2020/04/NumFOCUS-Bylaws-Approved-16-May-2019.pdf"&gt;bylaws&lt;/a&gt;). To be frank, the advisory board seems to be a thing where a bunch of folks are updated on things going on but I don't think there has ever been time for a lot of discussion.&lt;/p&gt;
+&lt;p&gt;The board met as a joint group for the first time where we had a few tasks, one was to elect officers and another to approve the code of conduct working group members. It was unclear to me how we would do either of those tasks as this was the first time the group had ever gotten together. I proposed we find a single temporary chair to handle the Technical Steering committee officers, as the Admin Board already has elected officers (not sure if those are changing). It was mentioned that the board will have a retreat in a few months, so a few of us volunteered to help organize that. If both the Admin Board and the Technical Steering Committee are incharge of setting strategic direction, the retreat seems a good way to get folks working on the same page.&lt;/p&gt;
+&lt;p&gt;Okay I'll keep it short for now. I would like to start blogging more about NumFOCUS and the community. We'll see how that goes.&lt;/p&gt;</content><category term="posts"/><category term="NumFOCUS"/></entry><entry><title>Thoughts On Board Member Duties</title><link href="https://andy.terrel.us/blog/2024/role-of-board-member.html" rel="alternate"/><published>2024-05-03T00:00:00-05:00</published><updated>2024-05-03T00:00:00-05:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2024-05-03:/blog/2024/role-of-board-member.html</id><summary type="html">&lt;p&gt;Last weekend I was working at the concession stand. I’m a board member of the local recreation baseball league and the assigned team to work the stand didn’t show up. For those new to the economics of kid sports, the concession stand is where flexible spending comes from …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Last weekend I was working at the concession stand. I’m a board member of the local recreation baseball league and the assigned team to work the stand didn’t show up. For those new to the economics of kid sports, the concession stand is where flexible spending comes from and if it isn’t open, then the league can only afford the bare bones, e.g. umpires, grounds maintenance, and uniforms. The concession stand is where we make money to fix things like bathrooms and offer scholarships to families that even the bare bones price is hard.&lt;/p&gt;
+&lt;p&gt;While working the stand, with one volunteer and my son who played in the league for 6 years, I had two complaints about the women’s restroom. I called for help over the board communication channel, but everyone else was busy. At this point I had to make a decision. Do we stop serving concessions and take care of the bathroom? Do I leave my son who is capable but maybe not world knowledgeable enough to handle problems that come up? Do I ignore the bathroom and just keep working, after all bathrooms are supposed to be nasty at ballparks?&lt;/p&gt;
+&lt;p&gt;Then I remember the issues the league had last year being sued because of a sink failure. One of our little bundles of joy decided to jump up and down on the sink until it broke off. The ceramic crashed and broke, cutting the boy and sending him to the urgent care facility. For months after that the board was hounded with a lawsuit from the parents, which was eventually dismissed. The point is that operating a bathroom for a public event has certain duties and if you have two complaints about unsanitary conditions, you better check it out. &lt;/p&gt;
+&lt;p&gt;At this point, I did the thing that was one of the hardest things I’ve done at a baseball field, and I’ve kicked out drunks, confronted vagrants, and many of the unfortunate duties of a baseball director who is trying to keep a nice place for kids to play baseball. As I approached the line of ladies in their baseball mom shirts hopping up and down wanting to get back to the action, I could smell the bathroom. A quick peek in between occupants and the worst was true, a urine soaked floor with tons of trash everywhere. I politely told the ladies that I deemed the bathroom unsafe, closed the bathroom, and pointed to the portapotty on the other side of the ballpark. Thank goodness stares don’t actually kill.&lt;/p&gt;
+&lt;p&gt;Rushing back to the concession stand my plan was to clean it when we get relief from the next set of volunteers. Over a dozen women came and asked when the restroom would be opened. I heard people say silly things about the league not using its money wisely. I didn’t check but I expect someone posted mean things on social media, as the song goes “if good news sold checkin your phone would never get old”. The rumor mill doesn’t take a back seat, it fires up and starts spreading falsehoods as quickly as it can.&lt;/p&gt;
+&lt;p&gt;I did stop to explain to one group about the liabilities of the situation. We had complaints about an unsafe bathroom, and we are liable if someone gets sick. We sell food and if a health inspector shows up, we risk being shut down, and we risk losing the budget for non-critical repairs. Finally, once we had the bathroom cleaned and it no longer smelled, it had a wet floor, so we would be liable if a person fell and broke their hip. While I wanted to make sure our fans had a nice restroom, we were not liable if they had an emergency in their pants. The death stares did not go away.&lt;/p&gt;
+&lt;h2&gt;What is your duty as a board member&lt;/h2&gt;
+&lt;p&gt;I often get asked, what is the duty of the board. Having been a board member for a decade at NumFOCUS and now for several years at the baseball league, I can tell you simply, “Accomplish the mission”. The decisions that are made will be based on the best information you have at the time balancing the risks and rewards of those decisions. Furthermore, expect no one to understand or care about the person making those decisions. The number of people who complained about the restroom didn’t stop and thank me, a volunteer who is taking his free time to ensure their players had a ball field. &lt;/p&gt;
+&lt;p&gt;Ultimately, the board has to rise above the complaints and help the team come together to solve the next challenge. Expect to be called “incompetent”, “opportunistic”, and even “mediocre”. Nobody will take the time to understand the economics of your organization. Expect that when you serve people around the world, cultural differences and your governing policies will collide. Sometimes having a meeting will be considered hostile, sometimes not having a meeting will be considered hostile. Stepping into those shoes doesn’t come with a plan and certainly not a list of things that are “the right things to do”. Expect to lose nights of sleep, wake up to the fear that you are the problem and not the solution. Do not expect anyone to understand the job and thank you for doing it. It’s a hard job and don’t let anyone tell you otherwise.&lt;/p&gt;
+&lt;p&gt;If you as a board member don’t take the time to learn about the entire system you are helping manage, you will have a very hard time changing that institution. Having first hand seen board members not come to board meetings and they lay out complaints of having no effect. I have seen board members work very hard and still not build enough consensus from stakeholders. Some of these board members burned out because their own initiatives did not get accepted. I have seen board members try to drive from the back seat and numerous board members get very upset. Each board is different and that board has to learn to work together to solve problems.&lt;/p&gt;
+&lt;p&gt;But I posit you have one duty above all as a board member, and after you have been in a position of extreme pressure you will understand, you have the duty to support your fellow board members. I’ve seen this from the best leaders who reach out when you see a fellow member struggle. I remember a kind phone call from a more experienced COO once who saw how the CEO and I were not communicating with one another effectively. The result was a better proposal that still included my points and moved the organization in a better direction. &lt;/p&gt;</content><category term="posts"/><category term="NumFOCUS"/></entry><entry><title>A Personal Apology to Jeremy Howard and the Community</title><link href="https://andy.terrel.us/blog/2020/personal-apology.html" rel="alternate"/><published>2020-11-01T00:00:00-05:00</published><updated>2020-11-01T00:00:00-05:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2020-11-01:/blog/2020/personal-apology.html</id><summary type="html">&lt;p&gt;I, Andy R. Terrel, issue a personal apology to Jeremy Howard and the Community for the handling of the JupyterCon 2020 Code of Conduct reports. As the ranking board member on the NumFOCUS Code of Conduct Enforcement Committee (COCEC), it was my duty to oversee a fair process and that …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I, Andy R. Terrel, issue a personal apology to Jeremy Howard and the Community for the handling of the JupyterCon 2020 Code of Conduct reports. As the ranking board member on the NumFOCUS Code of Conduct Enforcement Committee (COCEC), it was my duty to oversee a fair process and that did not happen. I take full responsibility for the incident and recuse myself from any duty that the NumFOCUS Board of Directors feel I am unfit.&lt;/p&gt;
+&lt;p&gt;To Jeremy Howard, I'm sorry. I did not recognize you appropriately in responding to you in the call. I did not intend  to make any mannerism that was laughter. When I heard the reading of the complaints and the way it was perceived I wanted to clarify and did so badly. I'm sorry.&lt;/p&gt;
+&lt;p&gt;To the JupyterCon community, I'm sorry. I recognize that having months of hard work invalidated by my failures is devastating.&lt;/p&gt;
+&lt;p&gt;To the NumFOCUS community, I'm sorry. I did not represent you well and now your work to create diverse, inclusive events is being called into question.&lt;/p&gt;
+&lt;p&gt;To the NumFOCUS staff, I'm sorry. My failure to oversee the process put you in a stressful situation in which you were not prepared. This new style of conference required so much more of you than was expected.&lt;/p&gt;
+&lt;p&gt;To the wider software community, I'm sorry. I have advocated for Code of Conducts for over 8 years now. In a few weeks, my actions have caused more damage than I could ever realize. I'm committed to working to undo that damage in whatever capacity I am able.&lt;/p&gt;
+&lt;p&gt;To all, I want it to be known that I hold Jeremy Howard's account to be honest and fair. I have seen several instances of negativity towards Jeremy and I ask that it please stop.&lt;/p&gt;
+&lt;p&gt;Prior to this incident I had admired Jeremy's analysis on COVID masks. After reading his post and seeing all the other advocacy he has done I realize how much Jeremy truly gives to the world. While  so many political leaders are acting in ways that cause more harm, Jeremy has been showing positive solutions. Jeremy Howard's advocacy is saving lives and he deserves all the support we can give him.&lt;/p&gt;
+&lt;p&gt;I hope one day to be able to meet Jeremy, apologize face to face, and work together to build a better community so people like him can keep creating a better world.&lt;/p&gt;
+&lt;p&gt;Sincerely,&lt;/p&gt;
+&lt;p&gt;Andy R. Terrel&lt;/p&gt;</content><category term="posts"/><category term="NumFOCUS"/></entry><entry><title>Personal history of NumFOCUS</title><link href="https://andy.terrel.us/blog/2016/personal-history-of-numfocus.html" rel="alternate"/><published>2016-06-14T00:00:00-05:00</published><updated>2016-06-14T00:00:00-05:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2016-06-14:/blog/2016/personal-history-of-numfocus.html</id><summary type="html">&lt;p&gt;&lt;img alt="NumFOCUS logo" src="https://andy.terrel.us/figures/numfocus_logo.png" title="NumFOCUS Logo&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;h1&gt;A NumFOCUS History: Sustaining Open Source Scientific Codes&lt;/h1&gt;
+&lt;p&gt;After a few of the last board meetings and discussions on board votes, I’ve been pondering a number of questions. Questions about who is NumFOCUS and why we exist. Where we are going and what problems in the world we would …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="NumFOCUS logo" src="https://andy.terrel.us/figures/numfocus_logo.png" title="NumFOCUS Logo&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;h1&gt;A NumFOCUS History: Sustaining Open Source Scientific Codes&lt;/h1&gt;
+&lt;p&gt;After a few of the last board meetings and discussions on board votes, I’ve been pondering a number of questions. Questions about who is NumFOCUS and why we exist. Where we are going and what problems in the world we would like to solve. I feel that our small organization has started to make a big turn in our journey. We are receiving more attention from the organizations we serve and the wider community. The PyData conference has begun to become a profitable enterprise that allows us to see a sustainable path but also requires a great amount of our time. At the same time we need to support our projects and programs in a functional way that promotes our mission.&lt;/p&gt;
+&lt;h2&gt;Why NumFOCUS&lt;/h2&gt;
+&lt;p&gt;In 2011 a group of scientific python community members got together to find a way to sustain the tools the community was building. Two of the gentlemen, Travis Oliphant and John Hunter, the creators of NumPy and MatPlotLib, respectively, had left academia and used their tools in industry.&lt;/p&gt;
+&lt;p&gt;It was clear that many parts of finance, oil and gas, and analytics fields were using their tools for much of the business. While many organizations would have liked to give back it was not an easy thing to do. The communities were divided up at many universities, government labs, and companies. Who would take money for the project and who would own the results?&lt;/p&gt;
+&lt;p&gt;While Travis and John brought a strong passion to help corporations to give back to the community through donations that would help. The other three founding members, Perry Greenfield, Fernando Perez and Jarrod Millman, were still in academia seeing first hand how hard it had become to receive awards to develop software critical to the success of scientific innovation. For so many the academic software business was the thing you did on the side. I remember sneaking my software by the university’s technological commercialization program so the work wouldn’t be hidden.&lt;/p&gt;
+&lt;p&gt;In that initial set of founders, we had several project leaders for AstroPy, IPython, NumPy, SciPy, and MatPlotLib. Each of these projects are free and open source built in a bazaar model of development. Meaning everything was done in the open, accepting patches and bugs from anyone who gave enough attention to make them. These projects also strived to not form any restrictions on their use, as seen by the base layer for much of the NumFOCUS ecosystem. While this may seem like a minor point, it becomes a bit of a defining feature of the tools. While many frameworks will take over a program and prevent portability, these libraries were intended to be used by anyone. Notably the licenses for these projects were also quite liberal preferring BSD-like licenses. These decisions made the projects viable options to the enterprise thus are critical to their sustainability.&lt;/p&gt;
+&lt;p&gt;The initial board was formed and Leah Silen was hired as our Executive Director to help us organize the non profit and daily actions. I don’t have much to say about those early days as the organization tried to form itself. Looking back it was clear there wasn’t as straight a path forward as the initial fervor of the five founders might have liked. Additionally tragedy struck as John suddenly passed away mid 2012. And Travis left his position at Enthought to form Continuum Analytics.&lt;/p&gt;
+&lt;h2&gt;Getting started&lt;/h2&gt;
+&lt;p&gt;The initial struggles of the organization were clear. The board was too busy to be a working board at the level needed. Thus the board was grown to 9 (which included myself) with a very small quorum of 3. This policy didn’t change until 2016. The board built the organization just like any open source project with Github accounts, mailing lists and many discussions about the minutia of running a non profit. Needless to say this was not going to be your typical non-profit organization.&lt;/p&gt;
+&lt;p&gt;In those early years, we sustained from three major corporate donations. Continuum Analytics, the newly formed company by Travis, gave us office space and paid Leah’s salary. JP Morgan Chase gave us a generous donation to help build our diversity program and Microsoft gave a donation to the IPython team. Additionally, we started a small conference series called PyData.&lt;/p&gt;
+&lt;p&gt;It’s not hard to see how overwhelmed we quickly became. With nine board members, one full time staffer and now projects, conferences, and a diversity program to run. We struggled to communicate all we did effectively much less get it started. In hindsight we should have been a bit more cautious about diving in head first. Leah got to know the night cleaners at the office and really poured more dedication into our effort than I can ever describe.&lt;/p&gt;
+&lt;p&gt;It is worth a moment to pause and discuss why these particular activities. The simple answer is that it takes much more for a community to survive than just coders committing to a repository. Just like all humans we have to have time to gather, discuss, and collaborate. Additionally, at that time there were two very important topics our community was grappling with, diversity and data science.&lt;/p&gt;
+&lt;h2&gt;NumFOCUS Mission&lt;/h2&gt;
+&lt;p&gt;I think the first surprise to most folks is that our mission is not to write software. In fact I question any person whose mission is to write software. It’s a bit like meeting a delivery driver whose mission is to consume gasoline. While certainly a side effect of making deliveries, not the essence of the activity.&lt;/p&gt;
+&lt;p&gt;Additionally, when we started we knew we wanted to support the ecosystem of numerical tools that scientists used. NumFOCUS was an acronym of this idea “Numerical Foundation for Open Code and Usable Science”. This has also become a sticking point over the years. What about tools that are not numerical? How about those that are important but have a very small user base?  Our mission became much more about promotion, education, and fiscal sponsorship. From our webpage (June 2016):&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;The mission of NumFOCUS is to promote sustainable high-level programming languages, open code development, and reproducible scientific research. We accomplish this mission through our educational programs and events as well as through fiscal sponsorship of open source data science projects. We aim to increase collaboration and communication within the scientific computing community.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;With that as our defining goal let’s review our activities and how they pertain to that goal.&lt;/p&gt;
+&lt;h3&gt;Fiscal sponsorship program&lt;/h3&gt;
+&lt;p&gt;The initial idea and structure of the organization was to provide a fiscal home to projects that fit. This is a bit of a foreign concept to most open source codes so I’ll try to explain a bit. Let’s look a somewhat standard progression of open source  scientific software.&lt;/p&gt;
+&lt;p&gt;A group of scientists determine a need in the community, usually at a conference, and pursue a grant from somewhere like the NSF or NIH. The project starts a shared repository and contributors from several different organizations start committing code. A license is added to the repo, now-a-days mandated by the granting institution, and it becomes usable by those the license stipulates. If the project is successful, a user base pops up and folks start putting things on mailing lists. Decisions start to be made that impact a larger group of people and thus some form of governance will emerge. The grant ends, as they are usually only for a few years, and there is a pile of code with the starting of a community.&lt;/p&gt;
+&lt;p&gt;I usually liken this to the building of a house. While the house may be built and be sound, it is far from done. Every week the house is cleaned and the grounds are attended. Every month requires minor maintenance and at least once a year major maintenance. New additions are built, rooms are rearranged, and furniture comes and goes. Even the people in the house grow and change. Eventually, people move out and new people move in. Some houses get turned into businesses, others host many overnight guests, but most serve as homes to the people who own them. Until an end of life event, such as being torn down for the progress of another more up to date home or even a restructuring of the entire city. But during all these years of a house’s life, it must be cleaned, attended, and maintained.&lt;/p&gt;
+&lt;p&gt;Just like a house, a software community has the same burdens of maintenance for sustainability. Communities also come and go. Few people use Numeric or NumArray the two libraries that NumPy was based upon. LinPACK was replaced by BLAS and LAPACK. Since the first lines of FORTRAN, the university and government lab has been a place to house scientists who are building these communities. During the last 10 years our academies no longer employ most of the scientific software writers. I have seen reports of as low as 12 percent of graduate students stay in academia.&lt;/p&gt;
+&lt;p&gt;Thus as graduate students no longer become professors, they move to industry and have taken their tools with them. It is hard to find a software project in technical fields that don’t use some open source software that comes from the academy. But without a home at universities or labs, the scientific community needs a place to hold its assets. Just like a grounds keeper of a house owns a hoe to weed, software developers gather tools and computers for maintaining their code. Project need websites for gathering information about the development. Additionally, they need meetings to gather and discuss the future of their projects.&lt;/p&gt;
+&lt;p&gt;The NumFOCUS Fiscal Sponsorship program was designed to help communities achieve these goals. We help projects to promote and organize themselves. We help them seek funding from foundations and corporations. We provide infrastructure for websites and code maintenance. We do this because we believe that giving scientists access to better tools helps everyone.&lt;/p&gt;
+&lt;p&gt;Not every project fits well with our fiscal sponsorship. For example if you are at a single institution, then that institution should be the sponsor. They provide the overhead to keep your team working and usually want you to pay your share when you do raise money. But as we have all seen it is sometimes quite hard to work with universities and labs whose goals do not meet the projects. We have an additional program, our Affiliate Project, for projects who for whatever reason cannot be a fiscal sponsored program. Being an Affiliate Project means that the board has approved your project for applying for grants from our general funds, but it subject to board approval.&lt;/p&gt;
+&lt;p&gt;There are a lot more legal details in our sponsorship projects, but we think it fills a gap for our community. As of this writing we have 15 sponsored projects and have given dozens of grants to sponsored and affiliate projects.&lt;/p&gt;
+&lt;h2&gt;PyData and Conferences&lt;/h2&gt;
+&lt;p&gt;In my story above about the creation of scientific software communities, one will notice that conferences and meetings come up quite a bit. It is my belief that these conferences are the most important part of our ecosystem. They allow us to promote and teach our tools. They recruit young aspiring scientists to our projects. Furthermore, they allow an open forum of thought that helps guide our future.&lt;/p&gt;
+&lt;p&gt;With this notion several people started the PyData community, notably Travis Oliphant, Peter Wang, Julie Steele, and Lynn Bender. Initially it was a one day workshop after Strata San Jose where a group of scientists got together with Guido van Rossum. The idea was to help Guido understand our use case of the Python programming language and how the core dev team could help us, such as providing better support to non standard CPython builds. The result of that meeting was a kind of admission by Guido that our community should make separate solutions as the Python community would not be focusing our needs.&lt;/p&gt;
+&lt;p&gt;The PyData Silicon Valley event was repeated in New York City, another place we knew our tools were being used in the finance sector.  Van Lindberg, chair of the Python Software Foundation (PSF), gave a keynote and gave the suggestion that PyData become a conference to support the NumFOCUS foundation like PyCon does for the PSF. The conference was sold out and became an instant hit, so the notion became appealing.&lt;/p&gt;
+&lt;p&gt;Currently we have 12 PyData conferences throughout North America and Europe. One of the keys to the success has been to leave a PyData Meetup group in all the cities we visit. Some have worked and those, such as London, have created a thriving community. It gives the local community a way to keep engaged year round.&lt;/p&gt;
+&lt;p&gt;PyData is only one conference we support. We have supported many such as JuliaCon, SciPy, EuroSciPy, SciPy Latin America, Scientific Software Days, AstroPy, PyCon, and Scikit Learn sprints. These meetings provide us the opportunity to teach the world how to use our tools. As most sessions have tutorials for beginners. They also give you an opportunity to sit down with the developers of a project and understand the problems they solve. So to me they have been a huge part of our organization.&lt;/p&gt;
+&lt;h3&gt;Diversity programs&lt;/h3&gt;
+&lt;p&gt;Our field, science and code, has come to admit a major diversity problem in the recent years and NumFOCUS has been trying to do our part in helping fix the problem. I, like many in the field, was blindsided by the issue. I remember distinctly the moment I saw the problem in its full breadth. Matt Davis tweeted at the SciPy 2012 Conference, where I was program chair, “More men have walked on the moon than women are at the conference.”  I went back to our registration and count a whole 3 of 200 participants were female.&lt;/p&gt;
+&lt;p&gt;In the years since, NumFOCUS has given a fellowship to the SciPy Conference. At each conference we held a diversity event where people talked about ways to increase the diversity of our community. I think the number one take away for me at those events was to attract a diverse community, one has to invite a diverse set of individuals. I have always been more interested in events that I felt invited too and the scientific computing community wasn’t the most inviting bunch.&lt;/p&gt;
+&lt;p&gt;To that end, NumFOCUS has put on many diversity workshops and training programs. I think my favorite that is still ambling along is the training week for high school aged females. One of our board members Cindee Madison started the program and helped lead several workshops. Its definitely one of the programs that is currently struggling as volunteer help is always needed. I believe the program was going to spin out on its own but lost a bit of steam when Cindee had some family medical problems.&lt;/p&gt;
+&lt;h3&gt;Other programs&lt;/h3&gt;
+&lt;p&gt;One of the best parts of being the President of NumFOCUS these past two years has been to work with some of the brightest minds on the planet try to tackle the issues facing our community. Each year our board comes up with new challenges to try and address. Some programs take off and others die.&lt;/p&gt;
+&lt;p&gt;One notable program that I didn’t speak much about is the Technical Fellowship Program. We were able to give a graduate student, Olga Botvinnik, time to work on the seaborn visualization library while working in biology. An experience that is difficult to get while pursuing a PhD. I think Olga was a great candidate but in the years since we have failed to come together and decide how we want the program to evolve. While giving a student time to develop their technical skill, it seems that money could also go to developers who work full time on the project. I’m sure we will revamp the program in the future.&lt;/p&gt;
+&lt;p&gt;We’ve given out grants to some interesting projects that are cross cutting in their concerns. One example is PyPy in a Box, which the PyPy jit accelerated Python implementation was built to work with scientific codes. Ultimately it didn’t take off. Another ongoing project is to help make Microsoft Windows a first class citizen in our development community by building a tool chain with functioning Fortran compilers and compatibility with system libraries. Yes, we still us a lot of Fortran code and you are welcome to come and try to rewrite it. Many have fallen to this task.&lt;/p&gt;
+&lt;h2&gt;Sustaining Our Future&lt;/h2&gt;
+&lt;p&gt;Now I’ve spent the better part of 3K words to get to the part I wanted to write about. One has to know the history to the places we are ready to go, but I think folks only ever see one part of the organization. We have many lives at NumFOCUS these days. Part conference organizers, part grant administrators, part project governance advisors, and always under funded. Our staff has grown from a single Executive Director to a team of four.&lt;/p&gt;
+&lt;p&gt;Our main source of income comes from the PyData conference series. The conference is designed to be cheap enough that students can afford to go but nice enough to fly in good keynote speakers. Without the conference series we would not be able to do the work we do.&lt;/p&gt;
+&lt;p&gt;We also receive some money from the fiscal sponsored projects. Initially, we had a very low overhead fee as we wanted to give as much to the projects as possible. We still only charge about 10% which is still absurdly low in the non profit space, but we found there is more work than we could possibly manage without more funding.&lt;/p&gt;
+&lt;p&gt;But for the most part, this is just the beginning. We need to flesh out our corporate donations program more and start applying for institutional funding for our own programs.&lt;/p&gt;
+&lt;p&gt;For now we have some basic income and can start thinking again about better ways to support our community. I would like to see us able to hire folks to help maintain projects better. For example run the infrastructure that is necessary and provide workshops for scientists to sustain their projects.&lt;/p&gt;</content><category term="posts"/><category term="NumFOCUS"/></entry><entry><title>Diversity at SciPy2014</title><link href="https://andy.terrel.us/blog/2014/diversity-at-scipy2014.html" rel="alternate"/><published>2014-07-17T00:00:00-05:00</published><updated>2014-07-17T00:00:00-05:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2014-07-17:/blog/2014/diversity-at-scipy2014.html</id><summary type="html">&lt;p&gt;&lt;img alt="SciPy2014 logo" src="https://andy.terrel.us/figures/scipy2014_logo.png" title="SciPy2014 Logo&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;p&gt;SciPy2014 is over, but there is so much more to do. I expect to be reviving my blog with a set of prose on my experience. Today I want to talk about a topic that was dear to my heart when I started this blog, &lt;a href="https://andy.terrel.us/blog/2012/thoughts-on-the-scipy-conference.html"&gt;diversity in the scientific python …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="SciPy2014 logo" src="https://andy.terrel.us/figures/scipy2014_logo.png" title="SciPy2014 Logo&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;p&gt;SciPy2014 is over, but there is so much more to do. I expect to be reviving my blog with a set of prose on my experience. Today I want to talk about a topic that was dear to my heart when I started this blog, &lt;a href="https://andy.terrel.us/blog/2012/thoughts-on-the-scipy-conference.html"&gt;diversity in the scientific python ecosystem&lt;/a&gt;. I'm focusing on gender diversity, but we also need to be aware of racial and other diversities, as well. I hope helping one will lead to helping others.&lt;/p&gt;
+&lt;p&gt;For the record, I am writing this post from my personal perspective. It is not representative of any company or community that has graciously chosen me as a representative.&lt;/p&gt;
+&lt;p&gt;SciPy, we have a diversity problem and &lt;a href="https://medium.com/theli-st-medium/its-not-my-job-to-fix-your-pipeline-problem-d2da2fe50f7a"&gt;it's not anyone else's job to fix it&lt;/a&gt;.  We've been trying to fix this problem, but this has uncovered other problems with our methodologies. It is my sincere hope that &lt;a href="http://wrightaprilm.github.io/posts/lonely.html"&gt;this amazingly brave post by April Wright&lt;/a&gt; and &lt;a href="http://wrightaprilm.github.io/posts/help-out.html"&gt;follow up&lt;/a&gt; will help shape the future of our community. Thank you, April, your courageous anecdote has been hugely impactful ... if the community listens.&lt;/p&gt;
+&lt;h2&gt;Working on diversity at SciPy&lt;/h2&gt;
+&lt;p&gt;First let me outline some of the efforts that have been taken in the past three years that I have been involved with organizing the SciPy Conference. Even getting these seemingly trivial changes has been a challenge I never expected. I've had community members tell me I'm wasting my time, others tell me not enough is being done, and the larger part of the community a bit uninterested in the topic. Folks, SciPy is a community conference, it is on us to work hard to make it the community we want and I don't want to be in an exclusive white male club any longer.&lt;/p&gt;
+&lt;p&gt;First, in 2012, Matt Davis noted via twitter that more men had walked on the moon than women attending SciPy. How dare he say such slander! ... wait let's count how many women are here ... I only see 3 ... très ... ¡Qué hostias!&lt;/p&gt;
+&lt;p&gt;The first thought on how to change was to find more women to be on our organizing committee and keynotes. Becoming chair in 2013, I asked every woman I knew in the community to help out. We increased to &lt;a href="http://conference.scipy.org/scipy2013/organizers.php"&gt;8 out of 58 in our organizers&lt;/a&gt;. Jonathan and I asked a half dozen women to keynote, but were roundly rejected. Not only do we have a problem with diverse groups coming to the conference, they have to be heavily persuaded to be a part of the organization at all. I could send one or two emails to community men I knew and get a avid contributor. This is the hill we must climb.&lt;/p&gt;
+&lt;p&gt;In 2013, we also had a &lt;a href="https://andy.terrel.us/blog/2013/women-sci-comp.html"&gt;social funded&lt;/a&gt; by &lt;a href="http://numfocus.org"&gt;NumFOCUS&lt;/a&gt; and &lt;a href="http://https://www.python.org/psf/"&gt;the PSF&lt;/a&gt;. The result was about 20 women of a variety of races coming together to talk about the issues. The message the organizers took home was cast a wider net. There is amazing quality from women in scientific computing, but they will not be looking at conferences that are primarily white men.  We are also a very small growing conference (150 in 2012 to 460 in 2014) so people outside our clique aren't going to come for prestige. Also the overwhelming opinion was, a social is nice, but less alcohol more food.&lt;/p&gt;
+&lt;p&gt;This year, 2014, we did similar things as last. Increase women on the organizing committee (&lt;a href="https://conference.scipy.org/scipy2014/organizers/"&gt;19 of 84&lt;/a&gt;), added a diversity committee, asked my uber-prof friend to give one of &lt;a href="http://lorenabarba.com/gallery/prof-barba-gave-keynote-at-scipy-2014/"&gt;the best SciPy keynotes ever&lt;/a&gt; and &lt;a href="http://kristenthyng.com/blog/2014/07/09/scipy-2014-disc/"&gt;host an event for diversity&lt;/a&gt;. We also worked with NumFOCUS to &lt;a href="http://conference.scipy.org/news/2014/04/12/scipy2014-submissions-diversity-funding/"&gt;fund scholarships explicitly for women in technology&lt;/a&gt; through a &lt;a href="http://numfocus.org/news/2013/11/08/jp-morgan-sponsors-pydata-and-women-in-technology/"&gt;generous donation from JP Morgan&lt;/a&gt;. This funding helped 5 more women attend the conference, in addition to the 15 other students (which included 3 women) supported to attend. We estimated 15% of attendees were women, not great but better than that original 1.5% in 2012.&lt;/p&gt;
+&lt;p&gt;The conference also had several discussions on the topic during the conference.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=e0Z9-EuZJac#t=876"&gt;Katy Huff's wonderful assessment of the situation in the poorly named "You win or you SciPy" Birds of a Feather&lt;/a&gt; (ignore the fat white guy before her!)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=SMyto7WHiNs#t=46"&gt;Cayci Gorlitsky lightning talk on Diversity in Tech&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additionally, I opened up &lt;a href="http://mail.scipy.org/pipermail/scipy-organizers/2013-October/000000.html"&gt;the mailing list for the conference organization&lt;/a&gt; with the hope of encouraging more participation from the community.  The efforts to take the conference as open as possible is one other effort to build the community we want. Being open isn’t sufficient to be diverse, it’s a necessary but not even close to sufficient condition.&lt;/p&gt;
+&lt;h2&gt;Needed Changes&lt;/h2&gt;
+&lt;p&gt;First, April hit the nail on the head. Who cares if you do all the things above if your conference is not welcoming to everyone.  Below, I outline a few specific actions the SciPy2015 community can take.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Welcome to SciPy track in all event categories&lt;/li&gt;
+&lt;li&gt;Better social events to get to know each other&lt;/li&gt;
+&lt;li&gt;Cast wider nets via smaller user groups&lt;/li&gt;
+&lt;li&gt;Teach the community how to run events better&lt;/li&gt;
+&lt;li&gt;Have a welcome committee to help people know who we are.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I've discussed this with many many community members and SciPy2015 will have a "Welcome to SciPy" arc to help folks know who we are, what tools we use, and why. The comment that it is a great conference if you already know all the things to succeed with SciPy has been repeated often.&lt;/p&gt;
+&lt;p&gt;Additionally, we have discussed quite a bit about having social events that are not alcohol or food related. There have always been smaller events not organized by the conference but we need to encourage this activity more broadly. This year if you watched twitter, you would have found folks swimming, running, and climbing, but having this in a program would be a big help.&lt;/p&gt;
+&lt;p&gt;As Katy pointed out we need to advertise our activities more. Some folks are chatting about starting meetups around the SciPy community. A small way to make sure folks are seeing local faces more often.&lt;/p&gt;
+&lt;p&gt;Sheila Miguez pointed out the incredible &lt;a href="http://opensource-events.com/"&gt;in-person event handbook&lt;/a&gt; from Shauna G. of Open Hatch. I think taking up the principles in this handbook is really needed. We have not made welcoming, goal setting, and clarifying structures a priority at events.&lt;/p&gt;
+&lt;p&gt;In the past, I have held events for other orgs where we made sure that a small set of folks were explicitly tasked with shaking hands and talking to people who were alone.  It seems foolish to some, but making folks break from the clique and talk to others only helps build the community.&lt;/p&gt;
+&lt;h2&gt;We Need You&lt;/h2&gt;
+&lt;p&gt;Finally, SciPy, we need you. Today all these events happen because of a few concerned volunteers. We need more people helping with our events, advocating for the minority, and building the community.&lt;/p&gt;
+&lt;p&gt;Community building doesn't fit nicely on a resume nor does it always feel good, but it is critical to everyone.  You will be depressed after you read a blog showing how far our community has to go. You will have colleagues tell you that you are wasting your time. You will miss deadlines that affect your funding or day job. Without community we will not sustain.&lt;/p&gt;
+&lt;p&gt;When I sat down with folks to encourage them to join our executive committee, I typically made the argument that if we don't build the community we want, no one else will. There are a lot of challenges we need to face, e.g. promoting code as a real scholarly work and promoting an open sharing culture among coders in scientific computing. We cannot do this without a diverse functional community.&lt;/p&gt;
+&lt;p&gt;Please go sign up for the mailing list and start making this a better place. &lt;a href="http://mail.scipy.org/mailman/listinfo/scipy-organizers"&gt;http://mail.scipy.org/mailman/listinfo/scipy-organizers&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Acknowledgements&lt;/h3&gt;
+&lt;p&gt;Thank you to: April Wright, Kelsey Jordahl, Anthony Scopatz, Matthew Turk, Dan Katz, Sheila Miguez, and Kyle Mandli for reading an early version and edits to this document.&lt;/p&gt;</content><category term="posts"/><category term="SciPy"/><category term="Python"/></entry><entry><title>Joining the Big Data Brain Drain</title><link href="https://andy.terrel.us/blog/2013/joining-big-data-brain-drain.html" rel="alternate"/><published>2013-11-21T00:00:00-06:00</published><updated>2013-11-21T00:00:00-06:00</updated><author><name>Andy R. Terrel</name></author><id>tag:andy.terrel.us,2013-11-21:/blog/2013/joining-big-data-brain-drain.html</id><summary type="html">&lt;p&gt;&lt;img alt="21 Gun Salute" src="https://andy.terrel.us/figures/21GunSalute.jpg" title="21 Gun Salute&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;p&gt;So long academia and thanks for all the debates!&lt;/p&gt;
+&lt;p&gt;Today is my last day of a wonderful three years at the University of Texas at
+Austin. Starting Monday, following Jake Vanderplas'
+&lt;a href="http://jakevdp.github.io/blog/2013/10/26/big-data-brain-drain/"&gt;terminology&lt;/a&gt;,
+I join the big data brain drain.  I will be joining Continuum Analytics a their
+Chief Computational Scientist …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="21 Gun Salute" src="https://andy.terrel.us/figures/21GunSalute.jpg" title="21 Gun Salute&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;p&gt;So long academia and thanks for all the debates!&lt;/p&gt;
+&lt;p&gt;Today is my last day of a wonderful three years at the University of Texas at
+Austin. Starting Monday, following Jake Vanderplas'
+&lt;a href="http://jakevdp.github.io/blog/2013/10/26/big-data-brain-drain/"&gt;terminology&lt;/a&gt;,
+I join the big data brain drain.  I will be joining Continuum Analytics a their
+Chief Computational Scientist, with a focus of helping them join HPC
+technologies to the Big Data world.  But that is another story.&lt;/p&gt;
+&lt;h2&gt;My story&lt;/h2&gt;
+&lt;p&gt;I have wanted to be a scientist since I was quite young, okay I really wanted
+to be a jet pilot but my genes killed that one. I remember the day that I
+decided to become a computational scientist.  It was at the
+&lt;a href="http://www.math.ttu.edu/Department/Calendar/Conferences/redraider/rr2003/red03.html"&gt;Red Raider Minisymposium on Biological Systems&lt;/a&gt;.
+I heard an excellent discussions by James Keener and Charles Taylor on the role
+of computational mathematics and understanding cardiovascular
+systems. Additionally I was basically offered a position at the prestigious
+University of Chicago on the spot.  The idea that I could contribute to
+treating the medical ailment that has claimed the lives of many in my family.
+To this end, I was elated when
+&lt;a href="http://cbc.simula.no/pub/"&gt;center for biomedical computing at Simula&lt;/a&gt; started
+using the &lt;a href="http://fenicsproject.org/"&gt;software&lt;/a&gt; I helped with in graduate
+school.&lt;/p&gt;
+&lt;p&gt;After graduate school, I've had the amazing opportunity to collaborate with
+scientists from a diverse set of applications and backgrounds. I've traveled to
+four continents to present my work and collaborate.  I've released several
+coding projects that have pushed the boundaries of computational mathematics
+field in numerics on accelerators, adaptive meshes, and domain specific
+languages.  Some of these discoveries have even pushed into
+&lt;a href="http://www.mcs.anl.gov/petsc/"&gt;PETSc&lt;/a&gt;, the premier HPC platform produced by
+the Argonne Lab.  Additionally, I have had the privileged of helping with the
+scientific python community taking the role of advocating and organizing the
+SciPy conference and the NumFOCUS foundation.  In the coming months I will be
+an editor for the Scientific Software Days issue in CiSE magazine.  Its been a
+jam packed three years and there are only a few things I would do differently.&lt;/p&gt;
+&lt;p&gt;Despite my deep respect for academia, I have come to terms that it is
+fundamentally not the right fit. I've had on and off moments where I start
+something in industry and come back, but this time is much different. After
+finally getting a rather large grant from the US Army, I had thought that I
+would finally have some time to determine my own direction.  Unfortunately, due
+to no part of mine, the grant was cut in half. My own deliverables were
+slipping so the rest of the money was on a slippery slope. The government
+sequestration and shutdown meant that my money would definitely be out before
+it could be renewed.  Just like that, I went from well funded PI to soft
+money beggar.&lt;/p&gt;
+&lt;p&gt;This presented with a choice of bouncing around on other PI's grants and hoping to get
+a more permanent position or moving to industry.  I shopped around my CV to
+see if I had a shot on the academic job market, but was told that I was
+not competitive by several friendly collaborators.  Most hires, even in
+computer science and applied mathematics, are people who have been out of
+graduate school for five or more years. On top of this, the general perception
+was I am "just the coder" for the work.  So when my friends at &lt;a href="http://continuum.io"&gt;Continuum
+Analytics&lt;/a&gt; gave me a call to do some of the most ambitious work I've seen, I
+didn't hesitate.&lt;/p&gt;
+&lt;h2&gt;Call for sustaining career paths for scientific coders&lt;/h2&gt;
+&lt;p&gt;Could I have salvaged my academic career? Absolutely.  But the events above
+makes me stop and ask if I wanted to.  Having turned down offers that tripled my
+salary for years, I've stayed with science to make an impact on the wider
+world.  I think academia does make the world a much better place.
+Unfortunately, I also see my role as the scientific coder being diminished year
+after year.&lt;/p&gt;
+&lt;p&gt;I can point to half a dozen folks I know not getting tenure.  People in post
+doctoral roles for a decade. Families living in different countries trying to
+keep their academic careers alive. And almost no academic I've ever met has a
+good work life balance. I'm willing to give up a lot to be an academic, but now
+that I have two children and one on the way, I'm not interested in giving up as
+much as it takes.&lt;/p&gt;
+&lt;p&gt;Even with academia being a hard place to make a career, you add to the fray
+that the field doesn't acknowledge code as a scholarly work and I'm out. At
+Supercomputing 2013 I saw three different presentations
+(&lt;a href="http://wssspe.researchcomputing.org.uk/"&gt;WSSSPE&lt;/a&gt;,
+&lt;a href="http://sc13.supercomputing.org/schedule/event_detail.php?evid=inspkr101"&gt;Saul Perlmutter's plenary&lt;/a&gt;,
+and
+&lt;a href="http://sc13.supercomputing.org/schedule/event_detail.php?evid=bof184"&gt;a BoF on Sequencing and Accelerators&lt;/a&gt;
+) all calling for better coders in science. But as pointed out again and again,
+the motivating factors are not in favor of better code in science.  Without a
+sustainable career path for those who are motivated to be "just the coder",
+science will continue to not compete.&lt;/p&gt;
+&lt;p&gt;One of the more persistent complaints I and many of my colleagues have had is
+being the lone coder in a larger group. One astrophysicist turned startup
+monkey once told me, "I'm tired of being the only one in my group that knows
+what an expression tree is."  We need more computer science skills for our
+scientific staff.  Unfortunately, computer science departments across the
+country are trying to move scientific computing out of their department. With
+only a few scientific computing departments in the entire US, there is a lack
+of options for scientific computing professionals.&lt;/p&gt;
+&lt;p&gt;I have volunteered as much time as I can afford to promoting and
+training folks like me with
+&lt;a href="http://software-carpentry.org/"&gt;Software Carpentry&lt;/a&gt; and
+&lt;a href="http://conference.scipy.org/index.html"&gt;SciPy conferences&lt;/a&gt;. The recent news of
+the
+&lt;a href="http://www.moore.org/newsroom/press-releases/2013/11/12/%20bold_new_partnership_launches_to_harness_potential_of_data_scientists_and_big_data"&gt;Moore Foundation and Sloan Foundation&lt;/a&gt;
+to further the careers of folks like me is a welcome message.  With the
+increase of science relying on advanced technologies and the increased rate of
+retracted publications due to software errors, academia must adapt. As a person
+who advocated for better software at an
+&lt;a href="www.tacc.utexas.edu"&gt;NSF Supercomputing facility&lt;/a&gt;, I can only wonder how long
+until the NSF makes a center for open sustainable software. Money for the hardware is
+just not enough to advance the cyber-infrastructure of the US.&lt;/p&gt;
+&lt;h2&gt;Future Advocate&lt;/h2&gt;
+&lt;p&gt;While the door to academia never truly closes, I will have an opportunity to
+work with an amazing team that is using much of the scientific technologies
+I've grown to love.  A scientist at heart, I plan to continue helping with
+SciPy and NumFOCUS, but as a industrial scientist with a team of very talented
+coders. My hope is to keep working with folks in academia to take their ideas
+to new levels of impact on the world they are passionate about helping.&lt;/p&gt;
+&lt;p&gt;As the great @dabeaz did while I was a student in his class, I give the 21 gun
+salute to my academic career. So long and thanks for all the great debates.&lt;/p&gt;
+&lt;h3&gt;Photo attribution&lt;/h3&gt;
+&lt;p&gt;By U.S. Navy photo by Photographer’s Mate 2nd Class Denise
+Martin. [Public domain], &lt;a
+href="http://commons.wikimedia.org/wiki/File%3AUS_Navy_021023-N-4211M-001_21_gun_salute_at_Naval_Air_Station_Lemoore.jpg"&gt;via
+Wikimedia Commons&lt;/a&gt;&lt;/p&gt;</content><category term="posts"/></entry><entry><title>Women in Scientific Computing, SciPy 2013</title><link href="https://andy.terrel.us/blog/2013/women-sci-comp.html" rel="alternate"/><published>2013-07-18T16:00:00-05:00</published><updated>2013-07-18T16:00:00-05:00</updated><author><name>Kristen M. Thyng</name></author><id>tag:andy.terrel.us,2013-07-18:/blog/2013/women-sci-comp.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;This post written by &lt;a href="http://kristenthyng.com/"&gt;Kristen M. Thyng&lt;/a&gt; about an event we both worked to organize at SciPy2013.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Picture at event" src="https://andy.terrel.us/figures/1-IMG_0723.JPG" title="Image title&amp;quot; width=&amp;quot;45%"&gt; &lt;img alt="Picture at event" src="https://andy.terrel.us/figures/2-IMG_0726.JPG" title="Image title&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;p&gt;As in other computing fields, women make up a small percentage of the people in scientific computing. In order to bring together the women at the SciPy conference to aid in building community …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;strong&gt;This post written by &lt;a href="http://kristenthyng.com/"&gt;Kristen M. Thyng&lt;/a&gt; about an event we both worked to organize at SciPy2013.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Picture at event" src="https://andy.terrel.us/figures/1-IMG_0723.JPG" title="Image title&amp;quot; width=&amp;quot;45%"&gt; &lt;img alt="Picture at event" src="https://andy.terrel.us/figures/2-IMG_0726.JPG" title="Image title&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;p&gt;As in other computing fields, women make up a small percentage of the people in scientific computing. In order to bring together the women at the SciPy conference to aid in building community and to discuss related issues, a mixer was held during one of the evening Birds of a Feather sessions, moderated by SciPy Conference co-chair Andy Terrel and attendee Kristen Thyng. The mixer was co-sponsored by generous support from NumFOCUS, the Python Software Foundation, and the SciPy conference.&lt;/p&gt;
+&lt;p&gt;Approximately three women attended SciPy 2012. In 2013, there was a substantially higher representation of women, with about 35 women or 10% of the participants between the tutorials, the conference, and the sprints. However, this number is still low, and more elucidating is how the numbers break down by participation activity. More detailed numbers for female participation are as follows, noting that some of these numbers are exact and some are rough best estimates since demographic information was not gathered from conference participants:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1/18 active program committee members&lt;/li&gt;
+&lt;li&gt;1 of about 10 lightning talks&lt;/li&gt;
+&lt;li&gt;1/5 awardees for the plotting competition&lt;/li&gt;
+&lt;li&gt;1 of about 20 tutorial leaders&lt;/li&gt;
+&lt;li&gt;2/13 sponsored students&lt;/li&gt;
+&lt;li&gt;3/19 conference co-chairs&lt;/li&gt;
+&lt;li&gt;Authors or co-authors on at least 13 of 120 submissions&lt;/li&gt;
+&lt;li&gt;At least 3 of 27 poster presenters&lt;/li&gt;
+&lt;li&gt;At least 4 of 70 speakers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img alt="Picture at event" src="https://andy.terrel.us/figures/3-IMG_0728.JPG" title="Image title&amp;quot; width=&amp;quot;45%"&gt; &lt;img alt="Picture at event" src="https://andy.terrel.us/figures/4-IMG_0732.JPG" title="Image title&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;p&gt;Soon after arriving at the event, people became acquainted with each other and started chatting. There was a good number of people at the mixer to meet new people but still have a chance to meet everyone. There were, all together, 16 people at the mixer: 13 women and 3 men.&lt;/p&gt;
+&lt;p&gt;Eventually, the group formed a circle in order to have a chance to have a discussion. The discussion covered many topics. Specific special interest groups for women in computing were brought up and women attending the mixer had positive things to say about the groups. In fact, many of them were attending the conference due to encouragement from PyLadies. They found that PyLadies was a less intimidating way to meet and talk and learn about Python than a regular Meetup group. In particular, some women found the Learn Python group to be helpful.&lt;/p&gt;
+&lt;p&gt;For helping to get women (and men) who are already interested in computing to learn more and therefore be able to participate more in a conference like SciPy, it was suggested to have a separate tutorials and talk track for introductory material, and have proper tools for self-assessment to make sure participants can correctly choose their path.&lt;/p&gt;
+&lt;p&gt;When asked whether a separate women's track at the conference would be desirable, participants said that they would not like this because they would rather be able to attend whatever track best fit their interests, and would not like to be singled out when it came to the research material itself.&lt;/p&gt;
+&lt;p&gt;Mentorship at the next SciPy between women (and possibly men) who have previously attended a SciPy (or related) conference was suggested to help new participants feel more comfortable in what might be a new community.&lt;/p&gt;
+&lt;p&gt;It was brought up that few iPython (and other package) contributors are women. Possible reasons suggested to explain this included that women may not feel comfortable contributing when men are aggressive and blunt. This is something that could be addressed by increased understanding and awareness on all sides.&lt;/p&gt;
+&lt;p&gt;The conference Code of Conduct was brought up as was how prominent to make the statement and how best to preempt any potential problems. Participants agreed that having previously established rules for how to deal with problems was worth any time that was spent on it.&lt;/p&gt;
+&lt;p&gt;It was unanimous that people at the SciPy conference had been accepting and friendly to everyone.&lt;/p&gt;
+&lt;p&gt;A question brought up was how to get more women involved with conference planning, which could then in turn help the conference be more inclusive and diverse in the future, keeping in mind that sometimes women are cautious not to be stuck "just" planning and organizing, which could be considered a traditionally female task.&lt;/p&gt;
+&lt;p&gt;To get more women to attend SciPy and submit abstracts, people thought that helping with the process could be beneficial. This sort of support would be most logical to come from a group like PyLadies.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Picture at event" src="https://andy.terrel.us/figures/5-IMG_0736.JPG" title="Image title&amp;quot; width=&amp;quot;45%"&gt; &lt;img alt="Picture at event" src="https://andy.terrel.us/figures/6-IMG_0737.JPG" title="Image title&amp;quot; width=&amp;quot;45%"&gt;&lt;/p&gt;
+&lt;p&gt;Various organizations were suggested as being helpful to seek out, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://numfocus.org"&gt;NumFOCUS&lt;/a&gt; (has funds for scholarships and women intiatives along with resources)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://adainitiative.org"&gt;Ada Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pyladies.com"&gt;PyLadies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wiki.gnome.org/OutreachProgramForWomen"&gt;Outreach Program for Women (OPW)&lt;/a&gt; (Internships for women in computing)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wiki.gnome.org/GnomeWomen"&gt;GNOME Women&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.engr.utexas.edu/wep/"&gt;Women in Engineering&lt;/a&gt; (UT program to encourage and provide support for female students in the engineering program. Similar programs are sometimes available at other universities.)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://software-carpentry.org"&gt;Software Carpentry&lt;/a&gt; (teaching/learning materials are available online)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.girlswhocode.com"&gt;Girls Who Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A general suggestion for getting more people to SciPy was to have differentiated funding for people coming from companies versus those who are paying their own way (and are not academics).&lt;/p&gt;
+&lt;p&gt;Overall, a good time was had by all and it was very enjoyable meeting and discussing with a small group of like-minded individuals. Having these sorts of discussions could be helpful in having a more diverse set of scientific coders over time! For more information about this event, contact Andy Terrel at andy.terrel [at] gmail.com or Kristen Thyng at kthyng [at] gmail.com.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Picture at event" src="https://andy.terrel.us/figures/7-IMG_0738.JPG" title="Image title&amp;quot; width=&amp;quot;90%"&gt;&lt;/p&gt;</content><category term="posts"/><category term="Python"/><category term="NumPy"/><category term="SciPy"/></entry><entry><title>NumPy SciPy Benchmarks</title><link href="https://andy.terrel.us/blog/2013/numpy-scipy-benchmarks.html" rel="alternate"/><published>2013-07-07T21:08:00-05:00</published><updated>2013-07-07T21:08:00-05:00</updated><author><name>Andy R. Terrel, PhD</name></author><id>tag:andy.terrel.us,2013-07-07:/blog/2013/numpy-scipy-benchmarks.html</id><summary type="html">&lt;p&gt;At PyCon2013, a group of about 30 developers got together to discuss
+NumPy and SciPy.  The room mostly included folks that use NumPy and
+SciPy extensively, such as myself, a few who were just learning, and
+several core contributors (if not currently in the past), such as Eric
+Jones, Travis …&lt;/p&gt;</summary><content type="html">&lt;p&gt;At PyCon2013, a group of about 30 developers got together to discuss
+NumPy and SciPy.  The room mostly included folks that use NumPy and
+SciPy extensively, such as myself, a few who were just learning, and
+several core contributors (if not currently in the past), such as Eric
+Jones, Travis Oliphant, Anthony Scopatz, and Jake Vanderplas.  It was
+an impromptu meeting, as most birds of a feather sessions are, so I
+don't think we even got the full number of interested participants at
+PyCon2013.  The scientific large support at PyCon was surprising,
+since most of us scientists think the wider Python ecosystem leaves us
+behind in many of their activities.&lt;/p&gt;
+&lt;p&gt;There were three topics we discussed: briefly about the development and
+maintenance of the libraries, about the use of newer technologies, e.g. Cython,
+PyPy, Copperhead, Numba, and finally about having a benchmark for new
+implementations of NumPy to see how complete they are.  Since there were not
+very many core developers in the room, it was hard to really push a topic on
+the development side but the other two topics were the most discussed.&lt;/p&gt;
+&lt;p&gt;To briefly summarize the maintenance and future plans section, I asked about
+how the community was doing since I've been organizing this whole conference
+thing and haven't been on the mailing lists in a while. Travis mentioned that
+NumFOCUS was trying to raise money for the projects, especially around the
+topic of paying a maintainer.  &lt;/p&gt;
+&lt;h2&gt;Miniature Applications&lt;/h2&gt;
+&lt;p&gt;Next we turn to the topic of benchmarks.  At the end we decided that there are
+at least two types of benchmarks that are really needed by the community.
+First, is a set of miniature applications that show off the tools well.  Since
+there is such a wide variety of tools available right now, it is difficult to
+know what to invest in as a developer.  Ian Osvald mentioned his book that
+includes one of the only major comparisons I've seen in the tools.  I suggested
+we look at how the Mantevo project implemented its mini-apps for the US DOE.
+Another suggestion was to organize the applications in the seven dwarfs
+of scientific computing suggested by Phil Collela. I believe these have been
+renamed to motifs and extended to eleven by the Berkeley crowd.&lt;/p&gt;
+&lt;p&gt;The idea moving forward will be to collect a number of applications, give a
+reference implementation, and accept contributions showing how to implement
+them in a Python runnable way.  The idea is not to make everyone use Python for
+everything but to show off the capabilities of Python as an integration (and
+implementation) platform.  One participant brought up that we could have a site
+like the Computer Language Benchmarks, while we agreed in spirit enough of us
+do not like that benchmark because of its purist ideas that applications should
+stick to a single language.  To be friendly to vendor solutions, I'm willing to
+accept closed runtimes but since the point is to highlight the code, all code
+must be free and open, preferably BSD.  I am sure we will refine the rules as
+we go.&lt;/p&gt;
+&lt;h2&gt;NumPy Benchmarks&lt;/h2&gt;
+&lt;p&gt;Matti, a contributor to NumPyPy, brought up the idea of creating a suite of
+benchmarks to compare different implementations of NumPy.  The idea here is
+once again not to compete ruthlessly for fame and glory, but rather provide a
+baseline for developer to hit when implementing alternatives and users to know
+how complete and single implementation is. Right now I know of several NumPy
+implementations (or close to implementations), e.g., NumPyPy, Numba,
+Copperhead, and a benchmark will be a welcome addition to the tools.&lt;/p&gt;
+&lt;p&gt;The plan to start off will be to grab out some tests from the NumPy regression
+tests and grab a benchmark runner.  Matti suggested trying to port the PyPy
+runners for our needs. Once we get something up and going we can try to put it
+up somewhere for people to make contributions.&lt;/p&gt;
+&lt;p&gt;There were many concerns about the benchmarks not being productive and bringing
+out too much competition.  My view is that we should try to be as open and
+welcoming as the rest of the Python ecosystem.  That is let the numbers speak
+for themselves and make these benchmarks something anyone can contribute to.&lt;/p&gt;
+&lt;p&gt;A final aspect of the benchmark would be to show off that NumPy is useful for
+more then numeric algorithms.  Many people see "Num" and assume there is no use
+for their specific needs, but in actuality, NumPy should be thought of as more
+a typed array.  This allows fast access to contiguous blocks (although the
+element access is often slower than lists).  &lt;/p&gt;
+&lt;h2&gt;Going Forward&lt;/h2&gt;
+&lt;p&gt;This post is intended to start a wider discussion among the community.  I'm
+posting here because there are enough places in the community and I wanted a
+single place rather than four or five mailing lists.  The hope is we can start
+a repository and get some tests rolling.&lt;/p&gt;</content><category term="posts"/><category term="Python"/><category term="NumPy"/><category term="SciPy"/></entry><entry><title>Usefulness of a University</title><link href="https://andy.terrel.us/blog/2013/use-of-a-university.html" rel="alternate"/><published>2013-04-08T21:08:00-05:00</published><updated>2013-04-08T21:08:00-05:00</updated><author><name>Andy R. Terrel, PhD</name></author><id>tag:andy.terrel.us,2013-04-08:/blog/2013/use-of-a-university.html</id><summary type="html">&lt;p&gt;&lt;a href="http://ivory.idyll.org/blog/2013-swc-arizona.html"&gt;The post reiterating that the biggest problem in teaching software carpentry (SWC)&lt;/a&gt; is
+installation, got me all in a tissy.  I even signed up for their mailing list!&lt;/p&gt;
+&lt;p&gt;My first impression with SWC was a wonderful community that in encouraging
+folks to learn computing skills.  After witnessing the TeachScheme movement …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="http://ivory.idyll.org/blog/2013-swc-arizona.html"&gt;The post reiterating that the biggest problem in teaching software carpentry (SWC)&lt;/a&gt; is
+installation, got me all in a tissy.  I even signed up for their mailing list!&lt;/p&gt;
+&lt;p&gt;My first impression with SWC was a wonderful community that in encouraging
+folks to learn computing skills.  After witnessing the TeachScheme movement, I
+was skeptical that two day bootcamps could really have any impact, but then
+again I'm usually wrong.  Now coming off two and a half years of supporting
+users on supercomputers, I too see the frustration that started SWC in the
+first place.  Scientists waste quite a lot of time not using the tools
+effectively, but then again I waste too much time futzing with tools.  The
+current frustration is over the view of what education of these tools actually
+is.&lt;/p&gt;
+&lt;h2&gt;What is a university education?&lt;/h2&gt;
+&lt;p&gt;Some of my best friends in life were made in the classrooms of my
+university education.  While learning the essence of science, math and
+philosophy, something else was happening as well.  I was participating in a
+community of learning.  These friends were the ones who helped me struggle
+through problems, understand new topics, and motivate my continued education.&lt;/p&gt;
+&lt;p&gt;While one can go through Bloom's Taxonomy and be as theoretical as one likes, I
+have yet to see many people actually discuss the building of a community around
+your classroom.  For most open source developers, this is the major draw, to
+work on hard problems with a set of intellectually challenging peers.  I will
+say that some tools are being developed to help this, such as Piazza. At the
+end of the day, MOOCs, bootcamps, and plain-ol-lectures that don't give
+students the ability to actively engage an topic on their own terms isn't worth
+its salt.  Developing communities around learning is another method for
+continuing the education process.&lt;/p&gt;
+&lt;p&gt;Perhaps the only thing that a University is providing that other methods of
+teaching hasn't touched is this community of learning.  To me that's the
+biggest problem in alternative university education, there is no community of
+learning after the day ends.&lt;/p&gt;
+&lt;p&gt;(On that note I have an unfunded grant proposal to turn textbooks into
+community initiators. Perhaps I'll get my act together and pursue it again.)&lt;/p&gt;</content><category term="posts"/></entry></feed>
