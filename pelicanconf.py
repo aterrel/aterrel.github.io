@@ -1,3 +1,6 @@
+import os
+
+
 AUTHOR = 'Andy R. Terrel, PhD'
 SITENAME = 'The Codematician'
 SITEURL = ""
@@ -39,3 +42,14 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+THEME_DIR = os.path.join(os.getcwd(), "theme")
+THEME_NAME = "tuxlite_tbs"
+THEME = os.path.join(THEME_DIR, THEME_NAME)
+RECENT_ARTICLES_COUNT = 3
+
+# STATIC_OUT_DIR requires pelican 3.3
+STATIC_OUT_DIR = ''
+STATIC_PATHS = ['images', 'figures', 'downloads', 'papers_and_talks']
+CODE_DIR = 'downloads/code'
+NOTEBOOK_DIR = 'downloads/notebooks'
