@@ -1,14 +1,9 @@
 {% extends "base.html" %}
 {% block content_title %}{% endblock %}
-{% block content %}        
+{% block content %}
 
 
-<div class='article'>
-  <div class="content-title"><h1>The Codematician</h1></div>
-  <p>
-    Welcome to the online presence of Andy R. Terrel, PhD.  Here you can find out a few things I share with the world for fame and glory (money-back guaranteed).
-  </p>
-</div>
+{% include 'introduction.html' %}
 
 <hr />
 
@@ -17,20 +12,19 @@
 <br/><br/>
 
 {% if articles %}
-{% for article in articles_page.object_list %}        
-
+{% for article in articles[:3] %}
     <div class='article'>
         <a href="{{ SITEURL }}/{{ article.url }}"><h2>{{ article.title }}</h2></a>
-        <div class= "well small"> {% include "metadata.html" %} </div>
+        <div class="well small"> {% include "metadata.html" %} </div>
         <div class="summary">{{ article.summary }} <a class="btn btn-info xsmall" href="{{ SITEURL }}/{{ article.url }}">read more</a></div>
-    </div>	
-				
-    {% if loop.last and (articles_page.has_previous() or not articles_page.has_previous() and loop.length > 1) %}
-        {% include 'pagination.html' %}
-    {% endif %}
+    </div>
+{% endfor %}
 
-
-{% endfor %} {# For article #}
+{% if articles|length > 3 %}
+<div style="margin: 18px 0 27px;">
+  <a class="btn btn-primary" href="{{ SITEURL }}/archives.html">More articles &rarr;</a>
+</div>
+{% endif %}
 {% endif %} {# If articles #}
 
 {% endblock content %}
