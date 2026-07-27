@@ -38,7 +38,7 @@
         <ul class="nav">
             <li><a href="/vita/">Vita</a></li>
             <li><a href="/archives.html">Archives</a></li>
-            
+
 
 
         </ul>
@@ -52,27 +52,110 @@
     <div class="row">
 
         <div class="span9">
-        
 
 
-<div class='article'>
-  <div class="content-title"><h1>The Codematician</h1></div>
-  <p>
-    Welcome to the online presence of Andy R. Terrel, PhD.  Here you can find out a few things I share with the world for fame and glory (money-back guaranteed).
-  </p>
-</div>
+<h1> Andy R. Terrel, PhD </h1>
 
+<!-- Homepage intro: Open Source Advocate / Scholar / Entrepreneur
+     Bootstrap 2.0 float grid. Sits inside base.html's .container > .row > .span9 (700px).
+     Uses .row-fluid + .span4 so it stays inside the content column.
+     bootstrap.min.responsive.css handles the mobile stack. -->
+<div class="three-hats">
+  <style>
+    .three-hats { margin: 18px 0 9px; }
+    .three-hats .three-hats-intro p { font-size: 15px; line-height: 23px; font-weight: 300; margin-bottom: 22px; }
+    .three-hats .hat-inner {
+      padding: 12px 14px;
+      border: 1px solid #e5e5e5;
+      border-top: 3px solid #0088cc;
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+      border-radius: 4px;
+      background-color: #fafafa;
+    }
+    .three-hats .hat-inner h3 { margin-bottom: 1px; font-size: 16px; line-height: 20px; }
+    .three-hats .hat-kicker {
+      display: block;
+      margin-bottom: 10px;
+      font-size: 10px;
+      line-height: 13px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #999999;
+    }
+    .three-hats .hat-inner p { margin-bottom: 8px; font-size: 12px; line-height: 17px; }
+    .three-hats .hat-inner ul { margin: 0 0 0 16px; font-size: 11px; }
+    .three-hats .hat-inner ul li { margin-bottom: 4px; line-height: 16px; }
+    .three-hats .hat { margin-bottom: 18px; }
+  </style>
+
+  <div class="three-hats-intro">
+    <p class="lead">
+      You'll find me at conferences, in library issue trackers, on the NumFOCUS board, and building businesses
+    </p>
+  </div>
+
+  <div class="row-fluid">
+
+    <div class="span4 hat">
+      <div class="hat-inner">
+        <h3>Open Source Advocate</h3>
+        <span class="hat-kicker">Since 2006</span>
+        <p>
+          Software is a social activity
+        </p>
+        <ul>
+          <li>Board member,
+              <a href="https://numfocus.org">NumFOCUS</a></li>
+          <li>SymPy, <a href="https://fenicsproject.org">FEniCS</a>, and PETSc contributor</li>
+          <li>Dask, conda, Bokeh, numba, DyND, and PyData contributor</li>
+          <li>SciPy chair; Google Summer of Code mentor</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="span4 hat">
+      <div class="hat-inner">
+        <h3>Scholar</h3>
+        <span class="hat-kicker">PhD, Computer Science</span>
+        <p>
+          How can automate the path from an equation to fast code.
+        </p>
+        <ul>
+          <li>PhD, University of Chicago &mdash; finite element methods</li>
+          <li>Research at UT Austin's ICES and TACC</li>
+          <li>Papers on GPU finite elements and code generation &mdash; see the
+              <a href="https://andy.terrel.us/vita/">vita</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="span4 hat">
+      <div class="hat-inner">
+        <h3>Entrepreneur</h3>
+        <span class="hat-kicker">CTO &middot; Product Lead</span>
+        <p>
+          Apparel sizing, real estate, manufacturing, publishing &mdash; find the model inside
+        </p>
+        <ul>
+          <li>CUDA Python Product Lead, NVIDIA</li>
+          <li>Executive roles at StoryFit, Xometry, REX, Boldmetrics, and Anaconda</li>
+          <li>Advisor to StoryFit, Saturn Cloud, KindHealth, and OneBrief</li>
+        </ul>
+      </div>
+    </div>
+
+  </div><!-- /.row-fluid -->
+</div><!-- /.three-hats -->
 <hr />
 
 <h1> Blog </h1>
 
 <br/><br/>
 
-        
-
     <div class='article'>
         <a href="https://andy.terrel.us/blog/2026/python-to-me.html"><h2>Python to Me</h2></a>
-        <div class= "well small"> Mon 27 July 2026
+        <div class="well small"> Mon 27 July 2026
 
 by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">Andy R. Terrel</a>
  
@@ -80,15 +163,10 @@ by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">And
 
  </div>
         <div class="summary"><p>My reflections on the Python ecosystem and community</p> <a class="btn btn-info xsmall" href="https://andy.terrel.us/blog/2026/python-to-me.html">read more</a></div>
-    </div>	
-				
-
-
-        
-
+    </div>
     <div class='article'>
         <a href="https://andy.terrel.us/blog/2026/numfocus-2025-year-in-review.html"><h2>NumFOCUS 2025: A Year of Transition and Renewal</h2></a>
-        <div class= "well small"> Mon 12 January 2026
+        <div class="well small"> Mon 12 January 2026
 
 by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">Andy R. Terrel</a>
  
@@ -96,15 +174,10 @@ by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">And
 
  </div>
         <div class="summary"><p>A look back at NumFOCUS in 2025—new executive director, public board minutes, clean audit, and key resolutions that shaped the year.</p> <a class="btn btn-info xsmall" href="https://andy.terrel.us/blog/2026/numfocus-2025-year-in-review.html">read more</a></div>
-    </div>	
-				
-
-
-        
-
+    </div>
     <div class='article'>
         <a href="https://andy.terrel.us/blog/2025/new-admin-board.html"><h2>The new NumFOCUS Admin Board</h2></a>
-        <div class= "well small"> Fri 10 January 2025
+        <div class="well small"> Fri 10 January 2025
 
 by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">Andy R. Terrel</a>
  
@@ -112,142 +185,14 @@ by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">And
 
  </div>
         <div class="summary"><p>The new NumFOCUS admin board met for the first time this week and I can say that I am truly honored to serve the community in this capacity. NumFOCUS has been a leading example of how to build open source culture and provide services to our scientific tool makers. With …</p> <a class="btn btn-info xsmall" href="https://andy.terrel.us/blog/2025/new-admin-board.html">read more</a></div>
-    </div>	
-				
+    </div>
 
-
-        
-
-    <div class='article'>
-        <a href="https://andy.terrel.us/blog/2025/things-to-do-in-2025.html"><h2>Things to do in 2025</h2></a>
-        <div class= "well small"> Sun 05 January 2025
-
-by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">Andy R. Terrel</a>
- 
-
-
- </div>
-        <div class="summary"><p><img alt="A Runner readies" src="https://andy.terrel.us/figures/braden-collum-9HI8UJMSdZA-unsplash.jpg" title="Man at starting line crouched for sprint&quot; width=&quot;45%"></p>
-<p>I seem to be waking up with purpose every morning so I felt it good to get a list of things I would like to do in 2025. Yeah this list is too long but gives my future self a direction.</p>
-<h2>Daily General Life</h2>
-<blockquote>
-<p><em>The heavens declare the glory; the …</em></p></blockquote> <a class="btn btn-info xsmall" href="https://andy.terrel.us/blog/2025/things-to-do-in-2025.html">read more</a></div>
-    </div>	
-				
-
-
-        
-
-    <div class='article'>
-        <a href="https://andy.terrel.us/blog/2025/looking-back-2024.html"><h2>Looking back at 2024</h2></a>
-        <div class= "well small"> Sat 04 January 2025
-
-by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">Andy R. Terrel</a>
- 
-
-
- </div>
-        <div class="summary"><p><em>You accomplish less in one year than you want more more in 10 than you ever expect.</em> </p>
-<p>These words of wisdom seem attributed to Bill Gates. This year of any, I started to see their meaning. The past year represented a pretty stark departure from the last decade of my …</p> <a class="btn btn-info xsmall" href="https://andy.terrel.us/blog/2025/looking-back-2024.html">read more</a></div>
-    </div>	
-				
-
-
-        
-
-    <div class='article'>
-        <a href="https://andy.terrel.us/blog/2024/when-to-meet.html"><h2>When should your board meet</h2></a>
-        <div class= "well small"> Sat 28 December 2024
-
-by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">Andy R. Terrel</a>
- 
-
-
- </div>
-        <div class="summary"><p>Seems the first duty as a new director at NumFOCUS is to determine when we should be meeting. Simple question deserves a blog post with far too much reflection, but hey I promised more transparency in decision making to numerous NumFOCUS constituents. In my experience through many boards at NumFOCUS …</p> <a class="btn btn-info xsmall" href="https://andy.terrel.us/blog/2024/when-to-meet.html">read more</a></div>
-    </div>	
-				
-
-
-        
-
-    <div class='article'>
-        <a href="https://andy.terrel.us/blog/2024/rejoining-numfocus-board.html"><h2>Rejoining the NumFOCUS Board</h2></a>
-        <div class= "well small"> Sun 15 December 2024
-
-by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">Andy R. Terrel</a>
- 
-
-
- </div>
-        <div class="summary"><p>A few weeks ago, I was elected to a new term on the NumFOCUS board. This time it is the Admin board while a newly created Technical Steering council has also been formed. One can see some of the differences of the two group on <a href="https://github.com/numfocus/elections/blob/main/board-responsibilities.md">the election webpage</a>. This group …</p> <a class="btn btn-info xsmall" href="https://andy.terrel.us/blog/2024/rejoining-numfocus-board.html">read more</a></div>
-    </div>	
-				
-
-
-        
-
-    <div class='article'>
-        <a href="https://andy.terrel.us/blog/2024/role-of-board-member.html"><h2>Thoughts On Board Member Duties</h2></a>
-        <div class= "well small"> Fri 03 May 2024
-
-by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">Andy R. Terrel</a>
- 
-
-
- </div>
-        <div class="summary"><p>Last weekend I was working at the concession stand. I’m a board member of the local recreation baseball league and the assigned team to work the stand didn’t show up. For those new to the economics of kid sports, the concession stand is where flexible spending comes from …</p> <a class="btn btn-info xsmall" href="https://andy.terrel.us/blog/2024/role-of-board-member.html">read more</a></div>
-    </div>	
-				
-
-
-        
-
-    <div class='article'>
-        <a href="https://andy.terrel.us/blog/2020/personal-apology.html"><h2>A Personal Apology to Jeremy Howard and the Community</h2></a>
-        <div class= "well small"> Sun 01 November 2020
-
-by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">Andy R. Terrel</a>
- 
-
-
- </div>
-        <div class="summary"><p>I, Andy R. Terrel, issue a personal apology to Jeremy Howard and the Community for the handling of the JupyterCon 2020 Code of Conduct reports. As the ranking board member on the NumFOCUS Code of Conduct Enforcement Committee (COCEC), it was my duty to oversee a fair process and that …</p> <a class="btn btn-info xsmall" href="https://andy.terrel.us/blog/2020/personal-apology.html">read more</a></div>
-    </div>	
-				
-
-
-        
-
-    <div class='article'>
-        <a href="https://andy.terrel.us/blog/2016/personal-history-of-numfocus.html"><h2>Personal history of NumFOCUS</h2></a>
-        <div class= "well small"> Tue 14 June 2016
-
-by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">Andy R. Terrel</a>
- 
-
-
- </div>
-        <div class="summary"><p><img alt="NumFOCUS logo" src="https://andy.terrel.us/figures/numfocus_logo.png" title="NumFOCUS Logo&quot; width=&quot;45%"></p>
-<h1>A NumFOCUS History: Sustaining Open Source Scientific Codes</h1>
-<p>After a few of the last board meetings and discussions on board votes, I’ve been pondering a number of questions. Questions about who is NumFOCUS and why we exist. Where we are going and what problems in the world we would …</p> <a class="btn btn-info xsmall" href="https://andy.terrel.us/blog/2016/personal-history-of-numfocus.html">read more</a></div>
-    </div>	
-				
-<div class="pagination">
-<ul>
-    <li class="prev disabled"><a href="#">&larr; Previous</a></li>
-
-    <li class="active"><a href="https://andy.terrel.us/author/andy-r-terrel.html">1</a></li>
-    <li class=""><a href="https://andy.terrel.us/author/andy-r-terrel2.html">2</a></li>
-
-    <li class="next"><a href="https://andy.terrel.us/author/andy-r-terrel2.html">Next &rarr;</a></li>
-
-</ul>
+<div style="margin: 18px 0 27px;">
+  <a class="btn btn-primary" href="https://andy.terrel.us/archives.html">More articles &rarr;</a>
 </div>
-
-  
+ 
         </div>
-        
+
         <div class="span3">
             <div class="social">
 	    <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
@@ -262,10 +207,10 @@ by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">And
             <div class="social">
             <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
             <ul class="nav nav-list">
-                <li class="nav-header"> 
+                <li class="nav-header">
                 Social
                 </li>
-           
+
                 <li><a href="//www.linkedin.com/in/aterrel">LinkedIn</a></li>
                 <li><a href="//github.com/aterrel">Github</a></li>
             </ul>
@@ -273,22 +218,22 @@ by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">And
             </div>
 
 
-            <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
+            <!--             <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
             <ul class="nav nav-list">
-                <li class="nav-header"> 
+                <li class="nav-header">
                 Categories
                 </li>
-                
+
                 <li><a href="https://andy.terrel.us/category/code.html">Code</a></li>
                 <li><a href="https://andy.terrel.us/category/posts.html">posts</a></li>
-                   
             </ul>
             </div>
+ -->
 
             <div class="well" style="padding: 8px 0; background-color: #FBFBFB;">
             <ul class="nav nav-list">
-                <li class="nav-header"> 
-                <li class="nav-header"> 
+                <li class="nav-header">
+                <li class="nav-header">
 		Tags
                 </li>
 		<li><a href="https://andy.terrel.us/tag/python.html">python</a></li>
@@ -302,8 +247,7 @@ by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">And
 	    </ul>
 	    </div>
 
-        </div>  
-    </div>     </div> 
+        </div>     </div>     </div> 
 <footer>
 <br />
 <p><a href="https://andy.terrel.us">The Codematician</a> &copy; Andy R. Terrel, PhD 2012-2013</p>
@@ -312,6 +256,5 @@ by <a class="url fn" href="https://andy.terrel.us/author/andy-r-terrel.html">And
 </div> <!-- /container -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script src="//twitter.github.com/bootstrap/assets/js/bootstrap-collapse.js"></script>
- 
 </body>
 </html>
